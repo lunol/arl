@@ -1,32 +1,33 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x" timestamp="1709419892748">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x" timestamp="1709418571794">
   <folder name="css">
     <file name="site_global.css" crc="82588861"/>
+    <file name="master_maestra-fluida.css" crc="40619942" ref="graphics:technique"/>
+    <file name="nomq_preview_master_maestra-fluida.css" crc="284479872" ref="graphics:technique"/>
+    <file name="master_maestra-black-fluida.css" crc="55321843" ref="work"/>
+    <file name="nomq_preview_master_maestra-black-fluida.css" crc="373458440" ref="work"/>
     <file name="master_maestra.css" crc="16985283" ref="about:photography:finalthesisproject"/>
     <file name="nomq_preview_master_maestra.css" crc="510143209" ref="about:photography:finalthesisproject"/>
-    <file name="master_maestra-fluida.css" crc="339973333" ref="technique:graphics"/>
-    <file name="nomq_preview_master_maestra-fluida.css" crc="284479872" ref="technique:graphics"/>
-    <file name="master_maestra-black-fluida.css" crc="1520099" ref="work"/>
-    <file name="nomq_preview_master_maestra-black-fluida.css" crc="4240177547" ref="work"/>
-    <file name="master_maestra-black.css" crc="4190276093" ref="animation"/>
-    <file name="nomq_preview_master_maestra-black.css" crc="3959980975" ref="animation"/>
-    <file name="technique.css" crc="481011232" ref="technique"/>
-    <file name="nomq_technique.css" crc="3841774771" ref="technique"/>
-    <file name="about.css" crc="3995369684" ref="about"/>
+    <file name="master_maestra-black.css" crc="175661848" ref="animation"/>
+    <file name="nomq_preview_master_maestra-black.css" crc="46235961" ref="animation"/>
+    <file name="graphics.css" crc="4079742692" ref="graphics"/>
+    <file name="nomq_graphics.css" crc="293427389" ref="graphics"/>
+    <file name="technique.css" crc="4141802884" ref="technique"/>
+    <file name="nomq_technique.css" crc="3761837585" ref="technique"/>
+    <file name="about.css" crc="3792924177" ref="about"/>
     <file name="nomq_about.css" crc="67645680" ref="about"/>
     <file name="index.css" crc="3826398691" ref="index"/>
     <file name="nomq_index.css" crc="264003926" ref="index"/>
-    <file name="graphics.css" crc="3858662226" ref="graphics"/>
-    <file name="nomq_graphics.css" crc="4253815066" ref="graphics"/>
     <file name="photography.css" crc="3829161380" ref="photography"/>
     <file name="nomq_photography.css" crc="4046627594" ref="photography"/>
-    <file name="work.css" crc="525180094" ref="work"/>
-    <file name="nomq_work.css" crc="46378056" ref="work"/>
-    <file name="animation.css" crc="447769672" ref="animation"/>
-    <file name="nomq_animation.css" crc="3930105146" ref="animation"/>
-    <file name="finalthesisproject.css" crc="3847049154" ref="finalthesisproject"/>
+    <file name="work.css" crc="3993289114" ref="work"/>
+    <file name="nomq_work.css" crc="4147387774" ref="work"/>
+    <file name="animation.css" crc="4123845849" ref="animation"/>
+    <file name="nomq_animation.css" crc="431858446" ref="animation"/>
+    <file name="finalthesisproject.css" crc="4135900345" ref="finalthesisproject"/>
     <file name="nomq_finalthesisproject.css" crc="4249981080" ref="finalthesisproject"/>
   </folder>
   <folder name="assets">
+    <file name="home.jpg" crc="4173750091" seo="true" mt="1480886147000"/>
     <file name="_0000s_0003_brussels.jpg" crc="46351542" seo="true" mt="1480910217000"/>
     <file name="_0000s_0004_brussels.jpg" crc="4049835074" seo="true" mt="1480910218000"/>
     <file name="_0000s_0006_brussels.jpg" crc="3865824942" seo="true" mt="1480910219000"/>
@@ -50,6 +51,7 @@
     <file name="_0000s_0027_london.jpg" crc="19780467" seo="true" mt="1480910234000"/>
     <file name="_0000s_0028_london.jpg" crc="4209750667" seo="true" mt="1480910234000"/>
     <file name="_0000s_0029_london.jpg" crc="3947179598" seo="true" mt="1480910235000"/>
+    <file name="homefb.jpg" crc="288701243" seo="true" mt="1481538315000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:finalthesisproject:about:photography:animation:technique:graphics"/>
@@ -255,24 +257,24 @@
     <file name="circ--graphics- .png" crc="169024997" ref="work:technique:graphics">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="u228437.png" crc="30071533" ref="work"/>
-    <file name="u228437-r.png" crc="30071533" ref="work"/>
+    <file name="u228437.png" crc="4183216093" ref="work"/>
+    <file name="u228437-r.png" crc="4183216093" ref="work"/>
     <file name="u228437-m.png" crc="4265853603" ref="work"/>
     <file name="u228437-a.png" crc="73223107" ref="work"/>
-    <file name="u228443.png" crc="4043466858" ref="work"/>
-    <file name="u228443-r.png" crc="4043466858" ref="work"/>
+    <file name="u228443.png" crc="3782096956" ref="work"/>
+    <file name="u228443-r.png" crc="3782096956" ref="work"/>
     <file name="u228443-m.png" crc="107587596" ref="work"/>
     <file name="u228443-a.png" crc="4143891802" ref="work"/>
     <file name="u228428.png" crc="150973434" ref="work"/>
     <file name="u228428-r.png" crc="150973434" ref="work"/>
     <file name="u228428-m.png" crc="4122038892" ref="work"/>
     <file name="u228428-a.png" crc="3943075118" ref="work"/>
-    <file name="u228451.png" crc="322431426" ref="work"/>
-    <file name="u228451-r.png" crc="322431426" ref="work"/>
+    <file name="u228451.png" crc="277061244" ref="work"/>
+    <file name="u228451-r.png" crc="277061244" ref="work"/>
     <file name="u228451-m.png" crc="3998382088" ref="work"/>
     <file name="u228451-a.png" crc="3784381966" ref="work"/>
-    <file name="u228457.png" crc="501364816" ref="work"/>
-    <file name="u228457-r.png" crc="501364816" ref="work"/>
+    <file name="u228457.png" crc="147537139" ref="work"/>
+    <file name="u228457-r.png" crc="147537139" ref="work"/>
     <file name="u228457-m.png" crc="4229502001" ref="work"/>
     <file name="u228457-a.png" crc="194029953" ref="work"/>
     <file name="finalthesis const.png" crc="3892885245" seo="true" ref="work">
@@ -1399,24 +1401,24 @@
     <file name="u257996-44.png" crc="4055759088" ref="photography"/>
     <file name="u427669-45.png" crc="477657738" ref="photography"/>
     <file name="u257745-45.png" crc="4120879224" ref="photography"/>
-    <file name="u70030.png" crc="275707808" ref="animation"/>
-    <file name="u70030-r.png" crc="275707808" ref="animation"/>
+    <file name="u70030.png" crc="3897197608" ref="animation"/>
+    <file name="u70030-r.png" crc="3897197608" ref="animation"/>
     <file name="u70030-m.png" crc="118689762" ref="animation"/>
     <file name="u70030-a.png" crc="88594408" ref="animation"/>
-    <file name="u70059.png" crc="3853662900" ref="animation"/>
-    <file name="u70059-r.png" crc="3853662900" ref="animation"/>
+    <file name="u70059.png" crc="72032504" ref="animation"/>
+    <file name="u70059-r.png" crc="72032504" ref="animation"/>
     <file name="u70059-m.png" crc="205085532" ref="animation"/>
     <file name="u70059-a.png" crc="299680461" ref="animation"/>
     <file name="u70050.png" crc="3829162580" ref="animation"/>
     <file name="u70050-r.png" crc="3829162580" ref="animation"/>
     <file name="u70050-m.png" crc="27895433" ref="animation"/>
     <file name="u70050-a.png" crc="3874456309" ref="animation"/>
-    <file name="u70038.png" crc="3948947669" ref="animation"/>
-    <file name="u70038-r.png" crc="3948947669" ref="animation"/>
+    <file name="u70038.png" crc="67304123" ref="animation"/>
+    <file name="u70038-r.png" crc="67304123" ref="animation"/>
     <file name="u70038-m.png" crc="81042031" ref="animation"/>
     <file name="u70038-a.png" crc="51902483" ref="animation"/>
-    <file name="u70044.png" crc="91141200" ref="animation"/>
-    <file name="u70044-r.png" crc="91141200" ref="animation"/>
+    <file name="u70044.png" crc="278342861" ref="animation"/>
+    <file name="u70044-r.png" crc="278342861" ref="animation"/>
     <file name="u70044-m.png" crc="4089077537" ref="animation"/>
     <file name="u70044-a.png" crc="75604297" ref="animation"/>
     <file name="u70025_states.png" crc="502948784" ref="animation"/>
@@ -2674,24 +2676,24 @@
     <file name="rect-rect copia.png" crc="3888538662" ref="graphics">
       <caption webpage="graphics" alt=""/>
     </file>
-    <file name="u240050.png" crc="4050829010" ref="graphics"/>
-    <file name="u240050-r.png" crc="4050829010" ref="graphics"/>
+    <file name="u240050.png" crc="4260037983" ref="graphics"/>
+    <file name="u240050-r.png" crc="4260037983" ref="graphics"/>
     <file name="u240050-m.png" crc="4028225178" ref="graphics"/>
     <file name="u240050-a.png" crc="3925290338" ref="graphics"/>
     <file name="u240079.png" crc="3930158248" ref="graphics"/>
     <file name="u240079-r.png" crc="3930158248" ref="graphics"/>
     <file name="u240079-m.png" crc="11203727" ref="graphics"/>
     <file name="u240079-a.png" crc="236381395" ref="graphics"/>
-    <file name="u240063.png" crc="528397128" ref="graphics"/>
-    <file name="u240063-r.png" crc="528397128" ref="graphics"/>
+    <file name="u240063.png" crc="349962995" ref="graphics"/>
+    <file name="u240063-r.png" crc="349962995" ref="graphics"/>
     <file name="u240063-m.png" crc="486075524" ref="graphics"/>
     <file name="u240063-a.png" crc="88065767" ref="graphics"/>
-    <file name="u240057.png" crc="199788983" ref="graphics"/>
-    <file name="u240057-r.png" crc="199788983" ref="graphics"/>
+    <file name="u240057.png" crc="474209383" ref="graphics"/>
+    <file name="u240057-r.png" crc="474209383" ref="graphics"/>
     <file name="u240057-m.png" crc="475534220" ref="graphics"/>
     <file name="u240057-a.png" crc="4016274777" ref="graphics"/>
-    <file name="u240072.png" crc="270901138" ref="graphics"/>
-    <file name="u240072-r.png" crc="270901138" ref="graphics"/>
+    <file name="u240072.png" crc="104593872" ref="graphics"/>
+    <file name="u240072-r.png" crc="104593872" ref="graphics"/>
     <file name="u240072-m.png" crc="405266174" ref="graphics"/>
     <file name="u240072-a.png" crc="82103601" ref="graphics"/>
     <file name="u240045_states.png" crc="502948784" ref="graphics"/>
@@ -3358,12 +3360,12 @@
       <caption webpage="graphics" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4056415226" seo="true" mt="1709419828645" redirect="true"/>
-  <file name="work.html" crc="4211220227" seo="true" mt="1709419830730" redirect="true"/>
-  <file name="finalthesisproject.html" crc="4052152458" seo="true" mt="1709419840388" redirect="true"/>
-  <file name="about.html" crc="284013159" seo="true" mt="1709419840388" redirect="true"/>
-  <file name="photography.html" crc="25319670" seo="true" mt="1709419840388" redirect="true"/>
-  <file name="animation.html" crc="183202371" seo="true" mt="1709419852977" redirect="true"/>
-  <file name="technique.html" crc="346028539" seo="true" mt="1709419873030" redirect="true"/>
-  <file name="graphics.html" crc="3809965164" seo="true" mt="1709419890163" redirect="true"/>
+  <file name="index.html" crc="4056415226" seo="true" mt="1709418432866" redirect="true"/>
+  <file name="work.html" crc="430741578" seo="true" mt="1709415669005" redirect="true"/>
+  <file name="finalthesisproject.html" crc="3962070881" seo="true" mt="1709418458046" redirect="true"/>
+  <file name="about.html" crc="417327733" seo="true" mt="1709418458046" redirect="true"/>
+  <file name="photography.html" crc="3981022876" seo="true" mt="1709418458046" redirect="true"/>
+  <file name="animation.html" crc="3764060696" seo="true" mt="1709418489610" redirect="true"/>
+  <file name="technique.html" crc="3960348653" seo="true" mt="1709418534728" redirect="true"/>
+  <file name="graphics.html" crc="3906108497" seo="true" mt="1709418566513" redirect="true"/>
 </manifest>

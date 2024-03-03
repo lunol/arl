@@ -1909,6 +1909,12 @@
     </image:image>
   </url>
   <url>
+    <loc>http://andresrabano.com/assets/_0000s_0012_ams.jpg</loc>
+    <lastmod>2016-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://andresrabano.com/assets/_0000s_0013_ams.jpg</loc>
     <lastmod>2016-12-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -1945,13 +1951,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andresrabano.com/assets/_0000s_0011_ams.jpg</loc>
+    <loc>http://andresrabano.com/assets/_0000s_0010_ams.jpg</loc>
     <lastmod>2016-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andresrabano.com/assets/_0000s_0012_ams.jpg</loc>
+    <loc>http://andresrabano.com/assets/_0000s_0011_ams.jpg</loc>
     <lastmod>2016-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1999,13 +2005,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andresrabano.com/assets/_0000s_0004_brussels.jpg</loc>
-    <lastmod>2016-12-04</lastmod>
+    <loc>http://andresrabano.com/assets/homefb.jpg</loc>
+    <lastmod>2016-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andresrabano.com/assets/_0000s_0010_ams.jpg</loc>
+    <loc>http://andresrabano.com/assets/_0000s_0003_brussels.jpg</loc>
     <lastmod>2016-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2029,13 +2035,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://andresrabano.com/assets/_0000s_0004_brussels.jpg</loc>
+    <lastmod>2016-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://andresrabano.com/assets/_0000s_0021_paris.jpg</loc>
     <lastmod>2016-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andresrabano.com/assets/_0000s_0003_brussels.jpg</loc>
+    <loc>http://andresrabano.com/assets/home.jpg</loc>
     <lastmod>2016-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

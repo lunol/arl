@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x" timestamp="1709853443494">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x" timestamp="1709936260735">
   <folder name="css">
     <file name="site_global.css" crc="82588861"/>
     <file name="master_maestra-fluida.css" crc="164626962" ref="graphics:technique"/>
     <file name="nomq_preview_master_maestra-fluida.css" crc="3998936761" ref="graphics:technique"/>
     <file name="master_maestra-black.css" crc="304799536" ref="animation"/>
     <file name="nomq_preview_master_maestra-black.css" crc="4265250150" ref="animation"/>
-    <file name="master_maestra-black-fluida.css" crc="3968774716" ref="work"/>
+    <file name="master_maestra-black-fluida.css" crc="3834221108" ref="work"/>
     <file name="nomq_preview_master_maestra-black-fluida.css" crc="4173064421" ref="work"/>
-    <file name="master_maestra.css" crc="308500465" ref="photography:about"/>
+    <file name="master_maestra.css" crc="511566081" ref="photography:about"/>
     <file name="nomq_preview_master_maestra.css" crc="470191778" ref="photography:about"/>
-    <file name="index.css" crc="4121800709" ref="index"/>
-    <file name="nomq_index.css" crc="4008001770" ref="index"/>
-    <file name="graphics.css" crc="260395706" ref="graphics"/>
-    <file name="nomq_graphics.css" crc="4020733148" ref="graphics"/>
-    <file name="photography.css" crc="4271750773" ref="photography"/>
-    <file name="nomq_photography.css" crc="3907619640" ref="photography"/>
-    <file name="work.css" crc="153459486" ref="work"/>
-    <file name="nomq_work.css" crc="378599807" ref="work"/>
-    <file name="animation.css" crc="3956073654" ref="animation"/>
+    <file name="index.css" crc="3881719379" ref="index"/>
+    <file name="nomq_index.css" crc="3953406952" ref="index"/>
+    <file name="graphics.css" crc="3892725248" ref="graphics"/>
+    <file name="nomq_graphics.css" crc="4199298488" ref="graphics"/>
+    <file name="photography.css" crc="3904655240" ref="photography"/>
+    <file name="nomq_photography.css" crc="4046016308" ref="photography"/>
+    <file name="work.css" crc="3900649149" ref="work"/>
+    <file name="nomq_work.css" crc="4159368029" ref="work"/>
+    <file name="animation.css" crc="123738251" ref="animation"/>
     <file name="nomq_animation.css" crc="386007684" ref="animation"/>
-    <file name="technique.css" crc="40199199" ref="technique"/>
-    <file name="nomq_technique.css" crc="141713294" ref="technique"/>
+    <file name="technique.css" crc="3900887627" ref="technique"/>
+    <file name="nomq_technique.css" crc="3805821963" ref="technique"/>
     <file name="about.css" crc="439657792" ref="about"/>
     <file name="nomq_about.css" crc="512594904" ref="about"/>
   </folder>
@@ -40,15 +40,6 @@
   </folder>
   <folder name="assets">
     <file name="home.jpg" crc="4173750091" seo="true" mt="1480886147000"/>
-    <file name="_0000s_0003_brussels.jpg" crc="46351542" seo="true" mt="1480910217000"/>
-    <file name="_0000s_0004_brussels.jpg" crc="4049835074" seo="true" mt="1480910218000"/>
-    <file name="_0000s_0006_brussels.jpg" crc="3865824942" seo="true" mt="1480910219000"/>
-    <file name="_0000s_0007_brussels.jpg" crc="32903638" seo="true" mt="1480910220000"/>
-    <file name="_0000s_0009_ams.jpg" crc="3953471201" seo="true" mt="1480910221000"/>
-    <file name="_0000s_0010_ams.jpg" crc="77103353" seo="true" mt="1480910221000"/>
-    <file name="_0000s_0011_ams.jpg" crc="477721476" seo="true" mt="1480910222000"/>
-    <file name="_0000s_0012_ams.jpg" crc="233434933" seo="true" mt="1480910223000"/>
-    <file name="_0000s_0013_ams.jpg" crc="4139335324" seo="true" mt="1480910223000"/>
     <file name="homefb.jpg" crc="288701243" seo="true" mt="1481538315000"/>
   </folder>
   <folder name="scripts">
@@ -170,9 +161,11 @@
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
     </file>
-    <file name="lines invert.png" crc="4282338724" ref="work:animation:technique">
+    <file name="lines invert.png" crc="4282338724" ref="work:animation:technique:graphics">
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
@@ -186,7 +179,7 @@
       <caption webpage="animation" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="equis invert-u228462-3-a-fr.png" crc="104417038" ref="work:animation:technique"/>
+    <file name="equis invert-u228462-3-a-fr.png" crc="104417038" ref="work:animation:technique:graphics"/>
     <file name="triang-u130673-fr.png" crc="4168141364" ref="work"/>
     <file name="rect-u130652-fr.png" crc="4029246570" ref="work"/>
     <file name="circ-u130630-fr.png" crc="4162950055" ref="work"/>
@@ -198,179 +191,313 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="lines copia.png" crc="3822225821" ref="about:photography:technique">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+    <file name="lines copia.png" crc="3822225821" ref="about:technique">
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="equis copia-u40678-3-a-fr.png" crc="3777549278" ref="about:photography:technique"/>
-    <file name="_0000s_0024_london.jpg" crc="4122310037" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0025_london.jpg" crc="4156213173" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0026_london.jpg" crc="4047191010" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
+    <file name="equis copia-u40678-3-a-fr.png" crc="3777549278" ref="about:technique"/>
+    <file name="london (3).jpg" crc="4122310037" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0029_london.jpg" crc="4031901112" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0023_london.jpg" crc="3926975804" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
+    <file name="london (4).jpg" crc="4156213173" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0027_london.jpg" crc="80020299" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0028_london.jpg" crc="113288547" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
+    <file name="london (5).jpg" crc="4047191010" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0022_london.jpg" crc="186290376" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0020_paris.jpg" crc="103744862" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
+    <file name="london (8).jpg" crc="4031901112" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0016_paris.jpg" crc="236093125" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0018_paris-crop-u565302.jpg" crc="4119228430" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0014_paris.jpg" crc="156408878" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
+    <file name="london (2).jpg" crc="437054775" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0017_paris.jpg" crc="4137956665" seo="true" ref="photography">
+    <file name="london (6).jpg" crc="80020299" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (7).jpg" crc="113288547" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (1).jpg" crc="186290376" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (2).jpg" crc="4021898874" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (4)-crop-u565302.jpg" crc="3879119893" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (1).jpg" crc="156408878" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (3).jpg" crc="4137956665" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (7).jpg" crc="188924088" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="img_5196.jpg" crc="3902768446" seo="true" ref="photography">
+    <file name="0020_paris.jpg" crc="103744862" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_5196.jpg" crc="4037628888" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0019_paris-crop-u565374.jpg" crc="3928631973" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0021_paris.jpg" crc="4186382777" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
+    <file name="paris (5).jpg" crc="131264319" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0018_paris-crop-u5653022.jpg" crc="4087755679" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0019_paris-crop-u5653742.jpg" crc="3928631973" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0018_paris-crop-u5653023.jpg" crc="4087755679" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0019_paris-crop-u5653743.jpg" crc="3928631973" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0024_london276x413.jpg" crc="3845686514" seo="true" ref="photography">
+    <file name="_mg_2359.jpg" crc="3895256409" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0025_london276x185.jpg" crc="213868616" seo="true" ref="photography">
+    <file name="ams (5)-crop-u572493.jpg" crc="3897976103" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_2345-crop-u572495.jpg" crc="3862422316" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_2411.jpg" crc="392274129" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0026_london325x486.jpg" crc="454628646" seo="true" ref="photography">
+    <file name="ams (3).jpg" crc="4066249034" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0029_london325x217.jpg" crc="349700643" seo="true" ref="photography">
+    <file name="_mg_2373-crop-u572501.jpg" crc="487533147" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_2351.jpg" crc="161673727" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0023_london325x217.jpg" crc="414616635" seo="true" ref="photography">
+    <file name="_mg_0277.jpg" crc="459565369" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0027_london325x217.jpg" crc="3778913861" seo="true" ref="photography">
+    <file name="horta_mg_1436-crop-u573974.jpg" crc="4096109257" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_0263-crop-u573976.jpg" crc="3821097653" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_0268.jpg" crc="4290551717" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0028_london276x185.jpg" crc="33373054" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0022_london276x414.jpg" crc="4210212353" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
+    <file name="brussels (4)-crop-u573980.jpg" crc="523846905" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0016_paris330x233.jpg" crc="4043268225" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0018_paris-crop-u5653024.jpg" crc="406655283" seo="true" ref="photography">
+    <file name="horta_mg_1436-u573982.png" crc="293157770" ref="photography"/>
+    <file name="paris (4)-crop-u5653022.jpg" crc="3879119893" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0014_paris330x485.jpg" crc="4187486591" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0017_paris271x409.jpg" crc="226204482" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
+    <file name="ams (5)-crop-u5724932.jpg" crc="3897976103" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0021_paris600x361.jpg" crc="4216164859" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0020_paris600x401.jpg" crc="4111640371" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
+    <file name="_mg_2345-crop-u5724952.jpg" crc="3862422316" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="img_5196271x271.jpg" crc="3811812852" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_0000s_0019_paris-crop-u5653744.jpg" crc="150799780" seo="true" ref="photography">
+    <file name="_mg_2373-crop-u5725012.jpg" crc="487533147" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0018_paris-crop-u5653025.jpg" crc="406655283" seo="true" ref="photography">
+    <file name="horta_mg_1436-crop-u5739742.jpg" crc="4096109257" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_0000s_0019_paris-crop-u5653745.jpg" crc="150799780" seo="true" ref="photography">
+    <file name="_mg_0263-crop-u5739762.jpg" crc="3821097653" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
+    <file name="brussels (4)-crop-u5739802.jpg" crc="523846905" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="horta_mg_1436-u5739822.png" crc="293157770" ref="photography"/>
+    <file name="london (3)276x413.jpg" crc="3845686514" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (4)276x185.jpg" crc="213868616" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (5)325x486.jpg" crc="454628646" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (8)325x217.jpg" crc="349700643" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (2)325x217.jpg" crc="3899118878" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (6)325x217.jpg" crc="3778913861" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (7)276x185.jpg" crc="33373054" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (1)276x414.jpg" crc="4210212353" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (2)330x233.jpg" crc="4191214875" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (4)-crop-u5653023.jpg" crc="4073424083" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (1)330x485.jpg" crc="4187486591" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (3)271x409.jpg" crc="226204482" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="0020_paris600x401.jpg" crc="4111640371" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (5)-crop-u565374.jpg" crc="372526359" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_2359276x414.jpg" crc="4050083192" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="ams (5)-crop-u5724933.jpg" crc="410347526" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_2345-crop-u5724953.jpg" crc="4150386769" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_2411321x214.jpg" crc="4199821941" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="ams (3)325x217.jpg" crc="4149714866" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_2373-crop-u5725013.jpg" crc="526228788" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_2351269x404.jpg" crc="3948531524" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_0277271x406.jpg" crc="4268548467" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="horta_mg_1436-crop-u5739743.jpg" crc="3919755615" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_0263-crop-u5739763.jpg" crc="192468515" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_0268600x400.jpg" crc="3960028620" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="brussels (4)-crop-u5739803.jpg" crc="264902471" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="horta_mg_1436-u5739823.png" crc="12275526" ref="photography"/>
+    <file name="london (3)161x241.jpg" crc="4170098462" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (4)161x108.jpg" crc="519776513" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (5)190x284.jpg" crc="533331262" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (8)190x127.jpg" crc="344982829" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (2)190x127.jpg" crc="12839333" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (6)190x127.jpg" crc="4167155733" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (7)161x108.jpg" crc="454080585" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (1)161x241.jpg" crc="3996849314" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (2)197x139.jpg" crc="313687750" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (4)-crop-u5653024.jpg" crc="480808181" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (1)197x289.jpg" crc="254536689" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (3)162x244.jpg" crc="4263633021" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (7)358x216.jpg" crc="83284263" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="0020_paris358x239.jpg" crc="3972355350" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_5196162x162.jpg" crc="271124264" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="paris (5)-crop-u5653742.jpg" crc="3863320485" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_2359161x242.jpg" crc="3973246371" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="ams (5)-crop-u5724934.jpg" crc="4281095833" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_2345-crop-u5724954.jpg" crc="3868011754" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_2411188x125.jpg" crc="276526247" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="ams (3)190x127.jpg" crc="369255372" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_2373-crop-u5725014.jpg" crc="3895847056" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_2351158x236.jpg" crc="414083688" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_0277158x237.jpg" crc="270620446" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="horta_mg_1436-crop-u5739744.jpg" crc="244955202" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_0263-crop-u5739764.jpg" crc="4158754651" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="_mg_0268350x234.jpg" crc="4009034895" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="brussels (4)-crop-u5739804.jpg" crc="4129652858" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="horta_mg_1436-u5739824.png" crc="4040792872" ref="photography"/>
     <file name="bru 1.png" crc="3979112330" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
       <caption webpage="animation" alt=""/>
@@ -812,9 +939,6 @@
     <file name="graphics.png" crc="410560950" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
     </file>
-    <file name="rect-rect copia.png" crc="3888538662" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
     <file name="termo-u531990-fr.jpg" crc="4219755669" ref="graphics"/>
     <file name="gazapo.jpg" crc="511945170" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
@@ -847,6 +971,9 @@
       <caption webpage="graphics" alt=""/>
     </file>
     <file name="cervantes-u531991-fr.jpg" crc="154693197" ref="graphics"/>
+    <file name="rect-rect copia.png" crc="3888538662" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
     <file name="termo.jpg" crc="347011035" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
@@ -918,11 +1045,11 @@
       <caption webpage="graphics" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="176076397" seo="true" mt="1709846825839" redirect="true"/>
-  <file name="work.html" crc="50165830" seo="true" mt="1709836526326" redirect="true"/>
-  <file name="about.html" crc="4172391077" seo="true" mt="1709843539010" redirect="true"/>
-  <file name="photography.html" crc="3802832048" seo="true" mt="1709853343500" redirect="true"/>
-  <file name="animation.html" crc="4273815194" seo="true" mt="1709835989472" redirect="true"/>
-  <file name="technique.html" crc="522164934" seo="true" mt="1709848520863" redirect="true"/>
-  <file name="graphics.html" crc="122989405" seo="true" mt="1709848839899" redirect="true"/>
+  <file name="index.html" crc="4256183257" seo="true" mt="1709935025973" redirect="true"/>
+  <file name="work.html" crc="4243483172" seo="true" mt="1709935064557" redirect="true"/>
+  <file name="about.html" crc="23150206" seo="true" mt="1709935025976" redirect="true"/>
+  <file name="photography.html" crc="4020212845" seo="true" mt="1709936145170" redirect="true"/>
+  <file name="animation.html" crc="3838654765" seo="true" mt="1709935129479" redirect="true"/>
+  <file name="technique.html" crc="112008340" seo="true" mt="1709935209586" redirect="true"/>
+  <file name="graphics.html" crc="351144922" seo="true" mt="1709935184189" redirect="true"/>
 </manifest>

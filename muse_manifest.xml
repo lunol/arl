@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x" timestamp="1710105570506">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x" timestamp="1710109771503">
   <folder name="css">
     <file name="site_global.css" crc="82588861"/>
-    <file name="master_maestra-fluida.css" crc="4224669247" ref="graphics:technique"/>
-    <file name="nomq_preview_master_maestra-fluida.css" crc="275238109" ref="graphics:technique"/>
+    <file name="master_maestra-fluida.css" crc="78632826" ref="graphics:technique"/>
+    <file name="nomq_preview_master_maestra-fluida.css" crc="3837906684" ref="graphics:technique"/>
     <file name="master_maestra-black.css" crc="19528737" ref="animation"/>
     <file name="nomq_preview_master_maestra-black.css" crc="411306523" ref="animation"/>
-    <file name="master_maestra-black-fluida.css" crc="4130333486" ref="work"/>
+    <file name="master_maestra-black-fluida.css" crc="175040357" ref="work"/>
     <file name="nomq_preview_master_maestra-black-fluida.css" crc="4263799495" ref="work"/>
-    <file name="master_maestra.css" crc="3853892348" ref="photography:about"/>
-    <file name="nomq_preview_master_maestra.css" crc="4259214192" ref="photography:about"/>
+    <file name="master_maestra.css" crc="313260629" ref="photography:about"/>
+    <file name="nomq_preview_master_maestra.css" crc="4267558464" ref="photography:about"/>
     <file name="index.css" crc="378637767" ref="index"/>
     <file name="nomq_index.css" crc="446667522" ref="index"/>
-    <file name="graphics.css" crc="3892725248" ref="graphics"/>
-    <file name="nomq_graphics.css" crc="4199298488" ref="graphics"/>
-    <file name="photography.css" crc="4135958634" ref="photography"/>
+    <file name="graphics.css" crc="3787279115" ref="graphics"/>
+    <file name="nomq_graphics.css" crc="48078192" ref="graphics"/>
+    <file name="photography.css" crc="480687394" ref="photography"/>
     <file name="nomq_photography.css" crc="455219722" ref="photography"/>
-    <file name="work.css" crc="4076996828" ref="work"/>
+    <file name="work.css" crc="61838892" ref="work"/>
     <file name="nomq_work.css" crc="4092629812" ref="work"/>
     <file name="animation.css" crc="123154647" ref="animation"/>
     <file name="nomq_animation.css" crc="3818093" ref="animation"/>
-    <file name="technique.css" crc="503569451" ref="technique"/>
-    <file name="nomq_technique.css" crc="4015341320" ref="technique"/>
+    <file name="technique.css" crc="383946455" ref="technique"/>
+    <file name="nomq_technique.css" crc="4203940679" ref="technique"/>
     <file name="about.css" crc="13832864" ref="about"/>
     <file name="nomq_about.css" crc="512594904" ref="about"/>
   </folder>
@@ -42,6 +42,21 @@
     <file name="home.jpg" crc="4173750091" seo="true" mt="1480886147000"/>
     <file name="homefb.jpg" crc="288701243" seo="true" mt="1481538315000"/>
     <file name="steel.jpg" crc="3805348266" seo="true" mt="1477338231000"/>
+    <file name="conversion.jpg" crc="372655888" seo="true" mt="1480908124000"/>
+    <file name="conversion-sys.jpg" crc="23831762" seo="true" mt="1477338170000"/>
+    <file name="curtainwall.jpg" crc="3843634984" seo="true" mt="1477332953000"/>
+    <file name="mixed.jpg" crc="120503258" seo="true" mt="1477338215000"/>
+    <file name="fire-safety.jpg" crc="513907112" seo="true" mt="1477338263000"/>
+    <file name="jhonny.jpg" crc="356297562" seo="true" mt="1477338192000"/>
+    <file name="termo.jpg" crc="347011035" seo="true" mt="1477350036000"/>
+    <file name="gazapo.jpg" crc="511945170" seo="true" mt="1477339373000"/>
+    <file name="smoke.jpg" crc="15235311" seo="true" mt="1477339390000"/>
+    <file name="diverxo.jpg" crc="525156050" seo="true" mt="1477339322000"/>
+    <file name="tecla.jpg" crc="192012061" seo="true" mt="1477339412000"/>
+    <file name="pyramiden.jpg" crc="3965000487" seo="true" mt="1477339339000"/>
+    <file name="cervantes.jpg" crc="136241318" seo="true" mt="1477339582000"/>
+    <file name="curutchet.jpg" crc="524246480" seo="true" mt="1477339643000"/>
+    <file name="olivetti.jpg" crc="4264790633" seo="true" mt="1477339602000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:about:photography:animation:technique:graphics"/>
@@ -49,9 +64,9 @@
     <file name="whatinput.js" crc="86476730" ref="index:work:about:photography:animation:technique:graphics"/>
     <file name="museconfig.js" crc="3936894949" ref="index:work:about:photography:animation:technique:graphics"/>
     <file name="webpro.js" crc="3856315280" ref="index:work:about:photography:animation:technique:graphics"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index:work:animation:technique"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:work:animation:technique"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index:work:animation:technique"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:work:animation"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:work:animation"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:work:animation"/>
     <file name="jquery.musemenu.js" crc="4139692962" ref="index:work:about:photography:animation:technique:graphics"/>
     <file name="jquery.watch.js" crc="522499760" ref="index:work:about:photography:animation:technique:graphics"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:work:about:photography:animation:technique:graphics"/>
@@ -62,7 +77,7 @@
     <file name="jquery.scrolleffects.js" crc="312044820" ref="photography:animation"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3763734442" ref="index"/>
+    <file name="favicon.ico" crc="3763734442" ref="index:work"/>
     <file name="h01.jpg" crc="3913068728" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -130,9 +145,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index:work:animation:technique"/>
+    <file name="loading.gif" crc="3815509949" ref="index:work:animation"/>
     <file name="base estrellas.jpg" crc="445770917" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
@@ -163,8 +177,10 @@
       <caption webpage="work" alt=""/>
     </file>
     <file name="lines invert.png" crc="4282338724" ref="work:animation:technique:graphics">
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="animation" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="work" alt=""/>
@@ -173,26 +189,21 @@
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="animation" alt=""/>
-      <caption webpage="animation" alt=""/>
-      <caption webpage="animation" alt=""/>
-      <caption webpage="animation" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
     </file>
     <file name="equis invert-u228462-3-a-fr.png" crc="104417038" ref="work:animation:technique:graphics"/>
-    <file name="triang-u130673-fr.png" crc="4168141364" ref="work"/>
-    <file name="rect-u130652-fr.png" crc="4029246570" ref="work"/>
-    <file name="circ-u130630-fr.png" crc="4162950055" ref="work"/>
-    <file name="triang-u130673-fr2.png" crc="3847399465" ref="work"/>
-    <file name="rect-u130652-fr2.png" crc="358841867" ref="work"/>
-    <file name="circ-u130630-fr2.png" crc="239662659" ref="work"/>
-    <file name="maestra-favicon.ico" crc="7221777" ref="about"/>
+    <file name="triang-u130673-fr.png" crc="3847399465" ref="work"/>
+    <file name="rect-u130652-fr.png" crc="358841867" ref="work"/>
+    <file name="circ-u130630-fr.png" crc="239662659" ref="work"/>
+    <file name="maestra-favicon.ico" crc="7221777" ref="about:photography"/>
     <file name="barrita.jpg" crc="220279546" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="lines copia.png" crc="3822225821" ref="about:technique">
+    <file name="lines copia.png" crc="3822225821" ref="about:technique:photography">
+      <caption webpage="technique" alt=""/>
+      <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
@@ -210,7 +221,7 @@
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="equis copia-u40678-3-a-fr.png" crc="3777549278" ref="about:technique"/>
+    <file name="equis copia-u40678-3-a-fr.png" crc="3777549278" ref="about:technique:photography"/>
     <file name="london (3).jpg" crc="4122310037" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
@@ -693,23 +704,14 @@
     <file name="technique.png" crc="125592018" seo="true" ref="technique">
       <caption webpage="technique" alt=""/>
     </file>
-    <file name="conversion sys-u229267-fr.jpg" crc="4038386146" ref="technique"/>
-    <file name="fire safety-u229266-fr.jpg" crc="429723831" ref="technique"/>
     <file name="mixed.jpg" crc="120503258" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-      <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
     </file>
     <file name="jhonny.jpg" crc="356297562" seo="true" ref="technique">
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
-      <caption webpage="technique" alt=""/>
-      <caption webpage="technique" alt=""/>
     </file>
-    <file name="curtainwall-u229268-fr.jpg" crc="3943318767" ref="technique"/>
-    <file name="conversion-u229262-fr.jpg" crc="4071038380" ref="technique"/>
-    <file name="steel-u229264-fr.jpg" crc="4267606185" ref="technique"/>
     <file name="triang-triang copia.png" crc="179389326" ref="technique:graphics">
       <caption webpage="technique" alt=""/>
     </file>
@@ -732,84 +734,6 @@
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
     </file>
-    <file name="det7-crop-u416874.jpg" crc="4017974411" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det1-crop-u416389.jpg" crc="4062522603" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det3-crop-u416704.jpg" crc="77462679" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det4-crop-u416748.jpg" crc="360293673" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det5-crop-u416790.jpg" crc="374655074" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det6-crop-u416832.jpg" crc="4128764080" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det8-crop-u416916.jpg" crc="3854010378" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det9-crop-u416958.jpg" crc="3813239118" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det10-crop-u417000.jpg" crc="297020674" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det11-crop-u417042.jpg" crc="4071526674" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det12-crop-u417084.jpg" crc="3832698968" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det13-crop-u417126.jpg" crc="4287958467" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det2-crop-u416582.jpg" crc="4051686371" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det398x75.jpg" crc="3775212505" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det498x75.jpg" crc="3864792493" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det598x75.jpg" crc="169116097" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det1098x75.jpg" crc="305686165" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det698x75.jpg" crc="3778890275" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det898x75.jpg" crc="120497222" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det798x75.jpg" crc="3853516277" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det198x75.jpg" crc="281739960" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det298x75.jpg" crc="4171998047" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det1398x75.jpg" crc="24023916" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det998x75.jpg" crc="48046890" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det1198x75.jpg" crc="131547679" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det1298x75.jpg" crc="89196230" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
     <file name="steel.jpg" crc="3805348266" seo="true" ref="technique">
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
@@ -819,96 +743,14 @@
     </file>
     <file name="technique972x688.png" crc="4009563469" seo="true" ref="technique">
       <caption webpage="technique" alt=""/>
+      <caption webpage="technique" alt=""/>
     </file>
-    <file name="conversion sys-u229267-fr2.jpg" crc="3931117305" ref="technique"/>
-    <file name="fire safety-u229266-fr2.jpg" crc="39610659" ref="technique"/>
-    <file name="curtainwall-u229268-fr2.jpg" crc="490742339" ref="technique"/>
-    <file name="conversion-u229262-fr2.jpg" crc="57854779" ref="technique"/>
-    <file name="steel-u229264-fr2.jpg" crc="136000407" ref="technique"/>
     <file name="triang-u229510-fr.png" crc="3917368012" ref="technique"/>
     <file name="triang-u229510-r-fr.png" crc="3977918084" ref="technique"/>
     <file name="rect-u229509-fr.png" crc="21587829" ref="technique"/>
     <file name="circ-u229508-fr.png" crc="14167394" ref="technique"/>
     <file name="circ-u229508-r-fr.png" crc="3892735647" ref="technique"/>
-    <file name="det7.jpg" crc="3781401338" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det1.jpg" crc="135622422" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det3.jpg" crc="3997413894" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det4.jpg" crc="167311686" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det5.jpg" crc="3926455366" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det6.jpg" crc="132238673" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det8.jpg" crc="3804054612" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det9.jpg" crc="4077757065" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det10.jpg" crc="191418470" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det11.jpg" crc="3863701815" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det12.jpg" crc="3852066667" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det13.jpg" crc="4226367384" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det2.jpg" crc="64900489" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det3103x79.jpg" crc="261546826" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det4103x79.jpg" crc="181576459" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det5103x79.jpg" crc="4040435275" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det10103x79.jpg" crc="455540656" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det6103x79.jpg" crc="163081082" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det8103x79.jpg" crc="201340848" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det7103x79.jpg" crc="335073100" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det1103x79.jpg" crc="479307601" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det2103x79.jpg" crc="385252962" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det13103x79.jpg" crc="438120727" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det9103x79.jpg" crc="4245435561" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det11103x79.jpg" crc="111779254" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="det12103x79.jpg" crc="4171075652" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="base estrellas-crop-u2306542.jpg" crc="4056989298" seo="true" ref="technique">
+    <file name="base estrellas-crop-u2306542.jpg" crc="4119909589" seo="true" ref="technique">
       <caption webpage="technique" alt=""/>
     </file>
     <file name="triang-u229510-fr2.png" crc="411102329" ref="technique"/>
@@ -922,38 +764,22 @@
     <file name="graphics.png" crc="410560950" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
     </file>
-    <file name="termo-u531990-fr.jpg" crc="4219755669" ref="graphics"/>
     <file name="gazapo.jpg" crc="511945170" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
     </file>
-    <file name="smoke-u531989-fr.jpg" crc="4075570384" ref="graphics"/>
-    <file name="pyramiden-u531996-fr.jpg" crc="4168071819" ref="graphics"/>
-    <file name="tecla-u531995-fr.jpg" crc="266765457" ref="graphics"/>
     <file name="diverxo.jpg" crc="525156050" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="pantallazo bulli.png" crc="196761493" ref="graphics">
-      <caption webpage="graphics" alt=""/>
     </file>
     <file name="olivetti.jpg" crc="4264790633" seo="true" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
     </file>
     <file name="curutchet.jpg" crc="524246480" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
     </file>
-    <file name="cervantes-u531991-fr.jpg" crc="154693197" ref="graphics"/>
     <file name="rect-rect copia.png" crc="3888538662" ref="graphics">
       <caption webpage="graphics" alt=""/>
     </file>
@@ -982,17 +808,9 @@
     </file>
     <file name="graphics964x682.png" crc="3807970861" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="termo-u531990-fr2.jpg" crc="4226194683" ref="graphics"/>
-    <file name="smoke-u531989-fr2.jpg" crc="485782664" ref="graphics"/>
-    <file name="pyramiden-u531996-fr2.jpg" crc="3798560049" ref="graphics"/>
-    <file name="tecla-u531995-fr2.jpg" crc="524889055" ref="graphics"/>
-    <file name="pantallazo bulli-u531988-fr.png" crc="520599242" ref="graphics"/>
-    <file name="cervantes-u531991-fr2.jpg" crc="3990084940" ref="graphics"/>
-    <file name="base estrellas-crop-u2400282.jpg" crc="183405176" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
     </file>
-    <file name="graphics638x425.png" crc="4251043617" seo="true" ref="graphics">
+    <file name="base estrellas-crop-u2400282.jpg" crc="486176750" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
     </file>
     <file name="triang-u240043-fr.png" crc="374385313" ref="graphics"/>
@@ -1000,33 +818,6 @@
     <file name="rect-u240984-fr.png" crc="364866100" ref="graphics"/>
     <file name="rect-u240984-r-fr.png" crc="261319876" ref="graphics"/>
     <file name="circ-u240041-fr.png" crc="3847356035" ref="graphics"/>
-    <file name="termo477x338.jpg" crc="530013099" seo="true" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="gazapo441x337.jpg" crc="3327939" seo="true" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="smoke476x336.jpg" crc="3929441677" seo="true" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="diverxo478x338.jpg" crc="3826215600" seo="true" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="tecla478x338.jpg" crc="460626753" seo="true" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="pyramiden478x339.jpg" crc="202957040" seo="true" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="cervantes480x340.jpg" crc="4153666972" seo="true" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="curutchet477x337.jpg" crc="4028202939" seo="true" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="olivetti477x338.jpg" crc="3801230239" seo="true" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
     <file name="technique533x377.png" crc="4272777526" seo="true" ref="technique">
       <caption webpage="technique" alt=""/>
     </file>
@@ -1034,12 +825,6 @@
       <caption webpage="technique" alt=""/>
     </file>
     <file name="mixed510x360.jpg" crc="384319840" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="curtainwall513x363.jpg" crc="3928943835" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="conversion sys510x364.jpg" crc="4017748086" seo="true" ref="technique">
       <caption webpage="technique" alt=""/>
     </file>
     <file name="conversion510x361.jpg" crc="224841760" seo="true" ref="technique">
@@ -1051,12 +836,102 @@
     <file name="jhonny511x362.jpg" crc="34938892" seo="true" ref="technique">
       <caption webpage="technique" alt=""/>
     </file>
+    <file name="fire safety1000x708.jpg" crc="253070738" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="mixed1000x708.jpg" crc="4182091482" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="curtainwall1000x708.jpg" crc="170398612" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="conversion sys1000x708.jpg" crc="126488626" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="conversion1000x708.jpg" crc="4179857776" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="steel1000x708.jpg" crc="486904308" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="jhonny1000x708.jpg" crc="4138049148" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="base estrellas-crop-u2306543.jpg" crc="4056989298" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="curtainwall510x361.jpg" crc="3782056104" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="conversion sys-crop-u223381.jpg" crc="4194971986" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="termo1000x708.jpg" crc="533724671" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="gazapo1000x708.jpg" crc="239601696" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="smoke1000x708.jpg" crc="4008829596" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="diverxo1000x708.jpg" crc="200324971" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="tecla1000x708.jpg" crc="4171213715" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="pyramiden1000x708.jpg" crc="305244980" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="cervantes1000x708.jpg" crc="199438285" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="curutchet1000x708.jpg" crc="4087541122" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="olivetti1000x708.jpg" crc="4027403542" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="base estrellas-crop-u2400283.jpg" crc="183405176" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="graphics-crop-u240030.png" crc="4217460800" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="termo510x361.jpg" crc="127472002" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="gazapo-crop-u227433.jpg" crc="180391357" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="smoke508x360.jpg" crc="511875848" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="diverxo510x361.jpg" crc="361333994" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="tecla511x361.jpg" crc="252813019" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="pyramiden511x362.jpg" crc="3773582453" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="cervantes511x362.jpg" crc="137909247" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="curutchet510x361.jpg" crc="4257138621" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="olivetti510x361.jpg" crc="4086406566" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="3776506745" seo="true" mt="1710104820926" redirect="true"/>
-  <file name="work.html" crc="473974954" seo="true" mt="1710104840495" redirect="true"/>
+  <file name="work.html" crc="4188361094" seo="true" mt="1710109537576" redirect="true"/>
   <file name="about.html" crc="476343216" seo="true" mt="1710104820931" redirect="true"/>
-  <file name="photography.html" crc="4111510107" seo="true" mt="1710104820932" redirect="true"/>
+  <file name="photography.html" crc="3793742347" seo="true" mt="1710109708585" redirect="true"/>
   <file name="animation.html" crc="306660801" seo="true" mt="1710104820934" redirect="true"/>
-  <file name="technique.html" crc="3862025533" seo="true" mt="1710105505397" redirect="true"/>
-  <file name="graphics.html" crc="351144922" seo="true" mt="1709935184189" redirect="true"/>
+  <file name="technique.html" crc="381918644" seo="true" mt="1710108583329" redirect="true"/>
+  <file name="graphics.html" crc="96374749" seo="true" mt="1710109479845" redirect="true"/>
 </manifest>

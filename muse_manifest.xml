@@ -1,27 +1,27 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x" timestamp="1710092331463">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x" timestamp="1710105570506">
   <folder name="css">
     <file name="site_global.css" crc="82588861"/>
-    <file name="master_maestra-fluida.css" crc="164626962" ref="graphics:technique"/>
-    <file name="nomq_preview_master_maestra-fluida.css" crc="3998936761" ref="graphics:technique"/>
-    <file name="master_maestra-black.css" crc="304799536" ref="animation"/>
-    <file name="nomq_preview_master_maestra-black.css" crc="4265250150" ref="animation"/>
+    <file name="master_maestra-fluida.css" crc="4224669247" ref="graphics:technique"/>
+    <file name="nomq_preview_master_maestra-fluida.css" crc="275238109" ref="graphics:technique"/>
+    <file name="master_maestra-black.css" crc="19528737" ref="animation"/>
+    <file name="nomq_preview_master_maestra-black.css" crc="411306523" ref="animation"/>
     <file name="master_maestra-black-fluida.css" crc="4130333486" ref="work"/>
     <file name="nomq_preview_master_maestra-black-fluida.css" crc="4263799495" ref="work"/>
-    <file name="master_maestra.css" crc="3777343386" ref="photography:about"/>
-    <file name="nomq_preview_master_maestra.css" crc="4176862133" ref="photography:about"/>
-    <file name="index.css" crc="3881719379" ref="index"/>
-    <file name="nomq_index.css" crc="3953406952" ref="index"/>
+    <file name="master_maestra.css" crc="3853892348" ref="photography:about"/>
+    <file name="nomq_preview_master_maestra.css" crc="4259214192" ref="photography:about"/>
+    <file name="index.css" crc="378637767" ref="index"/>
+    <file name="nomq_index.css" crc="446667522" ref="index"/>
     <file name="graphics.css" crc="3892725248" ref="graphics"/>
     <file name="nomq_graphics.css" crc="4199298488" ref="graphics"/>
-    <file name="photography.css" crc="3799497337" ref="photography"/>
-    <file name="nomq_photography.css" crc="4071666969" ref="photography"/>
-    <file name="work.css" crc="515725397" ref="work"/>
+    <file name="photography.css" crc="4135958634" ref="photography"/>
+    <file name="nomq_photography.css" crc="455219722" ref="photography"/>
+    <file name="work.css" crc="4076996828" ref="work"/>
     <file name="nomq_work.css" crc="4092629812" ref="work"/>
-    <file name="animation.css" crc="123738251" ref="animation"/>
-    <file name="nomq_animation.css" crc="386007684" ref="animation"/>
-    <file name="technique.css" crc="3900887627" ref="technique"/>
-    <file name="nomq_technique.css" crc="3805821963" ref="technique"/>
-    <file name="about.css" crc="439657792" ref="about"/>
+    <file name="animation.css" crc="123154647" ref="animation"/>
+    <file name="nomq_animation.css" crc="3818093" ref="animation"/>
+    <file name="technique.css" crc="503569451" ref="technique"/>
+    <file name="nomq_technique.css" crc="4015341320" ref="technique"/>
+    <file name="about.css" crc="13832864" ref="about"/>
     <file name="nomq_about.css" crc="512594904" ref="about"/>
   </folder>
   <folder name="fonts">
@@ -41,6 +41,7 @@
   <folder name="assets">
     <file name="home.jpg" crc="4173750091" seo="true" mt="1480886147000"/>
     <file name="homefb.jpg" crc="288701243" seo="true" mt="1481538315000"/>
+    <file name="steel.jpg" crc="3805348266" seo="true" mt="1477338231000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:about:photography:animation:technique:graphics"/>
@@ -61,7 +62,7 @@
     <file name="jquery.scrolleffects.js" crc="312044820" ref="photography:animation"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3763734442" ref="index:work"/>
+    <file name="favicon.ico" crc="3763734442" ref="index"/>
     <file name="h01.jpg" crc="3913068728" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -162,10 +163,8 @@
       <caption webpage="work" alt=""/>
     </file>
     <file name="lines invert.png" crc="4282338724" ref="work:animation:technique:graphics">
-      <caption webpage="animation" alt=""/>
-      <caption webpage="animation" alt=""/>
-      <caption webpage="animation" alt=""/>
-      <caption webpage="animation" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="work" alt=""/>
@@ -176,8 +175,10 @@
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="animation" alt=""/>
     </file>
     <file name="equis invert-u228462-3-a-fr.png" crc="104417038" ref="work:animation:technique:graphics"/>
     <file name="triang-u130673-fr.png" crc="4168141364" ref="work"/>
@@ -186,12 +187,12 @@
     <file name="triang-u130673-fr2.png" crc="3847399465" ref="work"/>
     <file name="rect-u130652-fr2.png" crc="358841867" ref="work"/>
     <file name="circ-u130630-fr2.png" crc="239662659" ref="work"/>
-    <file name="maestra-favicon.ico" crc="7221777" ref="about:photography"/>
+    <file name="maestra-favicon.ico" crc="7221777" ref="about"/>
     <file name="barrita.jpg" crc="220279546" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="lines copia.png" crc="3822225821" ref="about:technique:photography">
+    <file name="lines copia.png" crc="3822225821" ref="about:technique">
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
@@ -209,7 +210,7 @@
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="equis copia-u40678-3-a-fr.png" crc="3777549278" ref="about:technique:photography"/>
+    <file name="equis copia-u40678-3-a-fr.png" crc="3777549278" ref="about:technique"/>
     <file name="london (3).jpg" crc="4122310037" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
@@ -907,10 +908,7 @@
     <file name="det12103x79.jpg" crc="4171075652" seo="true" ref="technique">
       <caption webpage="technique" alt=""/>
     </file>
-    <file name="base estrellas-crop-u2306542.jpg" crc="4063541876" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="technique600x425.png" crc="4218014125" seo="true" ref="technique">
+    <file name="base estrellas-crop-u2306542.jpg" crc="4056989298" seo="true" ref="technique">
       <caption webpage="technique" alt=""/>
     </file>
     <file name="triang-u229510-fr2.png" crc="411102329" ref="technique"/>
@@ -918,27 +916,6 @@
     <file name="rect-u229509-fr2.png" crc="400122234" ref="technique"/>
     <file name="circ-u229508-fr2.png" crc="330320682" ref="technique"/>
     <file name="circ-u229508-r-fr2.png" crc="214193551" ref="technique"/>
-    <file name="fire safety477x338.jpg" crc="464848056" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="mixed476x337.jpg" crc="310763927" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="curtainwall477x337.jpg" crc="441107401" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="conversion sys477x337.jpg" crc="318616954" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="conversion477x338.jpg" crc="4154117375" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="steel477x338.jpg" crc="4116031387" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
-    <file name="jhonny478x339.jpg" crc="4148505265" seo="true" ref="technique">
-      <caption webpage="technique" alt=""/>
-    </file>
     <file name="base estrellas-crop-u240028.jpg" crc="100863349" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
     </file>
@@ -1050,12 +1027,36 @@
     <file name="olivetti477x338.jpg" crc="3801230239" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
     </file>
+    <file name="technique533x377.png" crc="4272777526" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="fire safety508x360.jpg" crc="142778935" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="mixed510x360.jpg" crc="384319840" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="curtainwall513x363.jpg" crc="3928943835" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="conversion sys510x364.jpg" crc="4017748086" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="conversion510x361.jpg" crc="224841760" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="steel511x362.jpg" crc="3794726675" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
+    <file name="jhonny511x362.jpg" crc="34938892" seo="true" ref="technique">
+      <caption webpage="technique" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4256183257" seo="true" mt="1709935025973" redirect="true"/>
-  <file name="work.html" crc="4078956491" seo="true" mt="1710092251726" redirect="true"/>
-  <file name="about.html" crc="23150206" seo="true" mt="1709935025976" redirect="true"/>
-  <file name="photography.html" crc="4136874251" seo="true" mt="1709938202665" redirect="true"/>
-  <file name="animation.html" crc="513178699" seo="true" mt="1709937340292" redirect="true"/>
-  <file name="technique.html" crc="112008340" seo="true" mt="1709935209586" redirect="true"/>
+  <file name="index.html" crc="3776506745" seo="true" mt="1710104820926" redirect="true"/>
+  <file name="work.html" crc="473974954" seo="true" mt="1710104840495" redirect="true"/>
+  <file name="about.html" crc="476343216" seo="true" mt="1710104820931" redirect="true"/>
+  <file name="photography.html" crc="4111510107" seo="true" mt="1710104820932" redirect="true"/>
+  <file name="animation.html" crc="306660801" seo="true" mt="1710104820934" redirect="true"/>
+  <file name="technique.html" crc="3862025533" seo="true" mt="1710105505397" redirect="true"/>
   <file name="graphics.html" crc="351144922" seo="true" mt="1709935184189" redirect="true"/>
 </manifest>

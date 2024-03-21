@@ -422,7 +422,6 @@ setTimeout(function(){f(!0)},5E3):f()}};
 var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.musemenu","jquery.watch","jquery.museresponsive"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
-Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#slideshowu156052', ['#bp_infinity', '#bp_1200', '#bp_900', '#bp_600'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:4000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:true,transitionDuration:2000,enableSwipe:true,elastic:'fullScreen',resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu156052 */

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x,2x" timestamp="1710981345441">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x,2x" timestamp="1710983613418">
   <folder name="css">
     <file name="site_global.css" crc="82588861"/>
     <file name="master_maestra-black.css" crc="95794289" ref="animation"/>
@@ -7,10 +7,10 @@
     <file name="nomq_preview_master_maestra-fluida.css" crc="221768230" ref="graphics:technique"/>
     <file name="master_maestra-black-fluida.css" crc="3866008014" ref="work"/>
     <file name="nomq_preview_master_maestra-black-fluida.css" crc="142436236" ref="work"/>
-    <file name="master_maestra.css" crc="231471590" ref="photography:about"/>
-    <file name="nomq_preview_master_maestra.css" crc="314457896" ref="photography:about"/>
-    <file name="photography.css" crc="4244035499" ref="photography"/>
-    <file name="nomq_photography.css" crc="4208727595" ref="photography"/>
+    <file name="master_maestra.css" crc="361612428" ref="photography:about"/>
+    <file name="nomq_preview_master_maestra.css" crc="4058522670" ref="photography:about"/>
+    <file name="photography.css" crc="305823060" ref="photography"/>
+    <file name="nomq_photography.css" crc="390550046" ref="photography"/>
     <file name="work.css" crc="61838892" ref="work"/>
     <file name="nomq_work.css" crc="4092629812" ref="work"/>
     <file name="graphics.css" crc="533596461" ref="graphics"/>
@@ -199,12 +199,12 @@
     <file name="triang-u130673-fr.png" crc="3847399465" ref="work"/>
     <file name="rect-u130652-fr.png" crc="358841867" ref="work"/>
     <file name="circ-u130630-fr.png" crc="239662659" ref="work"/>
-    <file name="maestra-favicon.ico" crc="7221777" ref="about"/>
+    <file name="maestra-favicon.ico" crc="7221777" ref="about:photography"/>
     <file name="barrita.jpg" crc="89031517" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="lines copia.png" crc="3822225821" ref="about:technique">
+    <file name="lines copia.png" crc="3822225821" ref="about:technique:photography">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -217,8 +217,14 @@
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
-    <file name="equis copia-u40678-3-a-fr.png" crc="3777549278" ref="about:technique"/>
+    <file name="equis copia-u40678-3-a-fr.png" crc="3777549278" ref="about:technique:photography"/>
     <file name="london (3).jpg" crc="209476480" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
@@ -550,15 +556,6 @@
     </file>
     <file name="horta_mg_1436-u5739823.png" crc="4249013244" ref="photography"/>
     <file name="horta_mg_1436-u573982_2x3.png" crc="266727132" ref="photography"/>
-    <file name="london (3)348x520.jpg" crc="3760900915" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="london (5)347x520.jpg" crc="3960622525" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="london (1)347x520.jpg" crc="4015773114" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
     <file name="london (3)303x454.jpg" crc="532337" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
@@ -717,15 +714,6 @@
     </file>
     <file name="horta_mg_1436-u5739824.png" crc="4205382956" ref="photography"/>
     <file name="horta_mg_1436-u573982_2x4.png" crc="26148981" ref="photography"/>
-    <file name="london (3)266x398.jpg" crc="4150951838" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="london (5)155x231.jpg" crc="3906107413" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="london (1)155x231.jpg" crc="475936109" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
     <file name="london (3)177x265.jpg" crc="4245063807" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
@@ -1567,11 +1555,29 @@
     <file name="olivetti510x361.jpg" crc="4086406566" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
     </file>
+    <file name="london (3)429x642.jpg" crc="15508673" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (5)429x642.jpg" crc="3992444464" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (1)429x642.jpg" crc="26010820" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (3)293x438.jpg" crc="207693273" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (5)293x438.jpg" crc="4256260844" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="london (1)293x438.jpg" crc="3893713516" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="37890283" seo="true" mt="1710981098042" redirect="true"/>
   <file name="work.html" crc="4235637364" seo="true" mt="1710900541595" redirect="true"/>
   <file name="about.html" crc="185550356" seo="true" mt="1710900541611" redirect="true"/>
-  <file name="photography.html" crc="13312256" seo="true" mt="1710980956783" redirect="true"/>
+  <file name="photography.html" crc="294016338" seo="true" mt="1710983535592" redirect="true"/>
   <file name="animation.html" crc="4268677728" seo="true" mt="1710900541563" redirect="true"/>
   <file name="technique.html" crc="4212999426" seo="true" mt="1710900541423" redirect="true"/>
   <file name="graphics.html" crc="427649766" seo="true" mt="1710900541377" redirect="true"/>

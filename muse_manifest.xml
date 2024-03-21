@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x,2x" timestamp="1711048397045">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x,2x" timestamp="1711056594422">
   <folder name="css">
     <file name="site_global.css" crc="82588861"/>
     <file name="master_maestra-black.css" crc="95794289" ref="animation"/>
@@ -7,8 +7,8 @@
     <file name="nomq_preview_master_maestra-fluida.css" crc="4110317972" ref="graphics:technique"/>
     <file name="master_maestra-black-fluida.css" crc="3866008014" ref="work"/>
     <file name="nomq_preview_master_maestra-black-fluida.css" crc="142436236" ref="work"/>
-    <file name="master_maestra.css" crc="3887387796" ref="photography:about:photography-copy"/>
-    <file name="nomq_preview_master_maestra.css" crc="3999157748" ref="photography:about:photography-copy"/>
+    <file name="master_maestra.css" crc="4136923699" ref="photography:about:photography-copy"/>
+    <file name="nomq_preview_master_maestra.css" crc="4058522670" ref="photography:about:photography-copy"/>
     <file name="photography.css" crc="458328098" ref="photography"/>
     <file name="nomq_photography.css" crc="3930107496" ref="photography"/>
     <file name="work.css" crc="354716723" ref="work"/>
@@ -23,8 +23,8 @@
     <file name="nomq_technique.css" crc="346068494" ref="technique"/>
     <file name="about.css" crc="3964014100" ref="about"/>
     <file name="nomq_about.css" crc="3875977735" ref="about"/>
-    <file name="photography-copy.css" crc="156282958" ref="photography-copy"/>
-    <file name="nomq_photography-copy.css" crc="231080325" ref="photography-copy"/>
+    <file name="photography-copy.css" crc="1939012" ref="photography-copy"/>
+    <file name="nomq_photography-copy.css" crc="185018650" ref="photography-copy"/>
   </folder>
   <folder name="fonts">
     <file name="cambriai-webfont.woff" crc="4255388330"/>
@@ -201,7 +201,7 @@
     <file name="triang-u130673-fr.png" crc="3847399465" ref="work"/>
     <file name="rect-u130652-fr.png" crc="358841867" ref="work"/>
     <file name="circ-u130630-fr.png" crc="239662659" ref="work"/>
-    <file name="maestra-favicon.ico" crc="7221777" ref="about"/>
+    <file name="maestra-favicon.ico" crc="7221777" ref="about:photography-copy"/>
     <file name="barrita.jpg" crc="89031517" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -229,6 +229,8 @@
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
       <caption webpage="photography-copy" alt=""/>
       <caption webpage="photography-copy" alt=""/>
       <caption webpage="photography-copy" alt=""/>
@@ -277,65 +279,85 @@
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="london (4)450x301.jpg" crc="4136009248" seo="true" ref="photography">
+    <file name="london (4)450x301.jpg" crc="4136009248" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (4)450x301_2x.jpg" crc="3812869771" seo="true" ref="photography">
+    <file name="london (4)450x301_2x.jpg" crc="3812869771" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (8)450x301.jpg" crc="372120818" seo="true" ref="photography">
+    <file name="london (8)450x301.jpg" crc="372120818" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (8)450x301_2x.jpg" crc="135337966" seo="true" ref="photography">
+    <file name="london (8)450x301_2x.jpg" crc="135337966" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (6)450x301.jpg" crc="3768868451" seo="true" ref="photography">
+    <file name="london (6)450x301.jpg" crc="3768868451" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (6)450x301_2x.jpg" crc="366981375" seo="true" ref="photography">
+    <file name="london (6)450x301_2x.jpg" crc="366981375" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (7)450x302.jpg" crc="4252196691" seo="true" ref="photography">
+    <file name="london (7)450x302.jpg" crc="4252196691" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (7)450x302_2x.jpg" crc="3967675469" seo="true" ref="photography">
+    <file name="london (7)450x302_2x.jpg" crc="3967675469" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (2)450x300.jpg" crc="5220662" seo="true" ref="photography">
+    <file name="london (2)450x300.jpg" crc="5220662" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (2)450x300_2x.jpg" crc="445842492" seo="true" ref="photography">
+    <file name="london (2)450x300_2x.jpg" crc="445842492" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
     <file name="london (4).jpg" crc="4241852997" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
@@ -646,35 +668,45 @@
     <file name="london (1)303x454.jpg" crc="4186952849" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="london (4)300x201.jpg" crc="347389311" seo="true" ref="photography">
+    <file name="london (4)300x201.jpg" crc="347389311" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (4)300x201_2x.jpg" crc="30817206" seo="true" ref="photography">
+    <file name="london (4)300x201_2x.jpg" crc="30817206" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (8)300x201.jpg" crc="4029665145" seo="true" ref="photography">
+    <file name="london (8)300x201.jpg" crc="4029665145" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (8)300x201_2x.jpg" crc="262670345" seo="true" ref="photography">
+    <file name="london (8)300x201_2x.jpg" crc="262670345" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (6)300x201.jpg" crc="475000608" seo="true" ref="photography">
+    <file name="london (6)300x201.jpg" crc="475000608" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (6)300x201_2x.jpg" crc="3833725516" seo="true" ref="photography">
+    <file name="london (6)300x201_2x.jpg" crc="3833725516" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (7)300x201.jpg" crc="3868300994" seo="true" ref="photography">
+    <file name="london (7)300x201.jpg" crc="3868300994" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (7)300x201_2x.jpg" crc="4194543760" seo="true" ref="photography">
+    <file name="london (7)300x201_2x.jpg" crc="4194543760" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (2)300x200.jpg" crc="4222554485" seo="true" ref="photography">
+    <file name="london (2)300x200.jpg" crc="4222554485" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (2)300x200_2x.jpg" crc="4158501761" seo="true" ref="photography">
+    <file name="london (2)300x200_2x.jpg" crc="4158501761" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
     <file name="london (4)558x373.jpg" crc="4113689589" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
@@ -804,35 +836,45 @@
     <file name="london (1)177x265.jpg" crc="3762141817" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="london (4)175x117.jpg" crc="3967628754" seo="true" ref="photography">
+    <file name="london (4)175x117.jpg" crc="3967628754" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (4)175x117_2x.jpg" crc="3983992675" seo="true" ref="photography">
+    <file name="london (4)175x117_2x.jpg" crc="4124080663" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (8)175x117.jpg" crc="4033127842" seo="true" ref="photography">
+    <file name="london (8)175x117.jpg" crc="4033127842" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (8)175x117_2x.jpg" crc="341684041" seo="true" ref="photography">
+    <file name="london (8)175x117_2x.jpg" crc="341684041" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (6)175x117.jpg" crc="27409290" seo="true" ref="photography">
+    <file name="london (6)175x117.jpg" crc="27409290" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (6)175x117_2x.jpg" crc="4124229275" seo="true" ref="photography">
+    <file name="london (6)175x117_2x.jpg" crc="4124229275" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (7)175x118.jpg" crc="509671960" seo="true" ref="photography">
+    <file name="london (7)175x118.jpg" crc="509671960" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (7)175x118_2x.jpg" crc="302284648" seo="true" ref="photography">
+    <file name="london (7)175x118_2x.jpg" crc="302284648" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (2)175x117.jpg" crc="4189550210" seo="true" ref="photography">
+    <file name="london (2)175x117.jpg" crc="4189550210" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
-    <file name="london (2)175x117_2x.jpg" crc="4222702555" seo="true" ref="photography">
+    <file name="london (2)175x117_2x.jpg" crc="4222702555" seo="true" ref="photography:photography-copy">
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
     </file>
     <file name="london (4)308x206.jpg" crc="244918547" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
@@ -1740,5 +1782,5 @@
   <file name="animation.html" crc="4126281963" seo="true" mt="1711036538252" redirect="true"/>
   <file name="technique.html" crc="266670668" seo="true" mt="1711036538252" redirect="true"/>
   <file name="graphics.html" crc="201087255" seo="true" mt="1711036538253" redirect="true"/>
-  <file name="photography-copy.html" crc="394421411" seo="true" mt="1711048153035" redirect="true"/>
+  <file name="photography-copy.html" crc="3829440009" seo="true" mt="1711052881804" redirect="true"/>
 </manifest>

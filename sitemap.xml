@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://andresrabano.com/index.html</loc>
-    <lastmod>2024-03-21</lastmod>
+    <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -40,65 +40,110 @@
     </image:image>
   </url>
   <url>
-    <loc>http://andresrabano.com/photography-copy.html</loc>
-    <lastmod>2024-03-21</lastmod>
+    <loc>http://andresrabano.com/technique.html</loc>
+    <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(3).jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/base%20estrellas-crop-u230654.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(5).jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/base%20estrellas-crop-u230654_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(1).jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/technique.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(4).jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/fire%20safety.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(8).jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/mixed.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(2).jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/curtainwall.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(6).jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/conversion%20sys.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(7).jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/conversion.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(3)457x684.jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/steel.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(5)457x684.jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/jhonny.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(1)457x684.jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/base%20estrellas1406x802.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(3)309x463.jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/base%20estrellas1406x802_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(5)309x462.jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/technique972x688.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(1)309x462.jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/base%20estrellas-crop-u2306542.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(3)201x301.jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/base%20estrellas-crop-u230654_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(5)201x300.jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/fire%20safety1000x708.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(1)201x300.jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/mixed1000x708.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/curtainwall1000x708.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/conversion%20sys1000x708.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/conversion1000x708.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/steel1000x708.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/jhonny1000x708.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/base%20estrellas-crop-u2306543.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/base%20estrellas-crop-u230654_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/technique533x377.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/fire%20safety508x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/mixed510x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/curtainwall510x361.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/conversion%20sys-crop-u223381.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/conversion510x361.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/steel511x362.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/jhonny511x362.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://andresrabano.com/graphics.html</loc>
-    <lastmod>2024-03-21</lastmod>
+    <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -214,108 +259,6 @@
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/olivetti510x361.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://andresrabano.com/technique.html</loc>
-    <lastmod>2024-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/base%20estrellas-crop-u230654.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/base%20estrellas-crop-u230654_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/technique.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/fire%20safety.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mixed.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/curtainwall.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/conversion%20sys.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/conversion.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/steel.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/jhonny.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/base%20estrellas1406x802.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/base%20estrellas1406x802_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/technique972x688.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/base%20estrellas-crop-u2306542.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/base%20estrellas-crop-u230654_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/fire%20safety1000x708.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mixed1000x708.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/curtainwall1000x708.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/conversion%20sys1000x708.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/conversion1000x708.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/steel1000x708.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/jhonny1000x708.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/base%20estrellas-crop-u2306543.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/base%20estrellas-crop-u230654_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/technique533x377.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/fire%20safety508x360.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mixed510x360.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/curtainwall510x361.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/conversion%20sys-crop-u223381.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/conversion510x361.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/steel511x362.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/jhonny511x362.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -686,7 +629,7 @@
   </url>
   <url>
     <loc>http://andresrabano.com/photography.html</loc>
-    <lastmod>2024-03-21</lastmod>
+    <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -697,15 +640,6 @@
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/london%20(1).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(3)454x681.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(5)454x681.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(1)454x681.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/london%20(4)450x301.jpg</image:loc>
@@ -756,37 +690,13 @@
       <image:loc>http://andresrabano.com/images/paris%20(2).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u565302.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u565302_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andresrabano.com/images/paris%20(1).jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/paris%20(3).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(7)567x341.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(7)567x341_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/0020_paris.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/img_5196.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/img_5196_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andresrabano.com/images/paris%20(5).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(5)_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_2359.jpg</image:loc>
@@ -855,12 +765,6 @@
       <image:loc>http://andresrabano.com/images/brussels%20(4)-crop-u573980.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u5653022.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u565302_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andresrabano.com/images/ams%20(5)-crop-u5724932.jpg</image:loc>
     </image:image>
     <image:image>
@@ -883,36 +787,6 @@
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/brussels%20(4)-crop-u5739802.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(3)-crop-u609315.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(5)464x695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(1)-crop-u609319.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(4)867x579.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(8)860x575.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(2)867x578.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(6)867x579.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(7)867x580.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u5653023.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u565302_2x3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/ams%20(5)-crop-u5724933.jpg</image:loc>
@@ -939,18 +813,6 @@
       <image:loc>http://andresrabano.com/images/brussels%20(4)-crop-u5739803.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(3)-crop-u6093152.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(1)-crop-u6093192.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u5653024.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u565302_2x4.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andresrabano.com/images/ams%20(5)-crop-u5724934.jpg</image:loc>
     </image:image>
     <image:image>
@@ -973,24 +835,6 @@
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/brussels%20(4)-crop-u5739804.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(3)311x466.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(5)311x466.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(1)311x466.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(3)303x454.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(5)303x454.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(1)303x454.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/london%20(4)300x201.jpg</image:loc>
@@ -1023,64 +867,13 @@
       <image:loc>http://andresrabano.com/images/london%20(2)300x200_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(4)558x373.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(8)558x374.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(2)558x372.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(6)558x373.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(7)558x374.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(2)330x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u5653025.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u565302_2x5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(1)330x485.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(3)271x409.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andresrabano.com/images/paris%20(7).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(7)_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/0020_paris600x401.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/img_5196271x271.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/img_5196271x271_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(5)-crop-u565374.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(5)-crop-u565374_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_2359276x414.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_2359276x414_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/ams%20(5)-crop-u5724935.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_2345-crop-u572495.jpg</image:loc>
@@ -1101,12 +894,6 @@
       <image:loc>http://andresrabano.com/images/ams%20(3)325x217_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/mg_2373-crop-u5725015.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mg_2373-crop-u572501_2x5.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andresrabano.com/images/mg_2351269x404.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1119,34 +906,10 @@
       <image:loc>http://andresrabano.com/images/mg_0277271x406_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/horta_mg_1436-crop-u5739745.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/horta_mg_1436-crop-u573974_2x5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mg_0263-crop-u5739765.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mg_0263-crop-u573976_2x5.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andresrabano.com/images/mg_0268600x400.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_0268600x400_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/brussels%20(4)-crop-u5739805.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(3)293x438.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(5)293x438.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/london%20(1)293x438.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/london%20(3)177x265.jpg</image:loc>
@@ -1203,49 +966,10 @@
       <image:loc>http://andresrabano.com/images/london%20(7)308x207.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(2)197x139.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u5653026.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u565302_2x6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(1)197x289.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(3)162x244.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(7)358x216.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(7)358x216_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/0020_paris358x239.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/img_5196162x162.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/img_5196162x162_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(5)-crop-u5653742.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/paris%20(5)-crop-u565374_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andresrabano.com/images/mg_2359161x242.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_2359161x242_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/ams%20(5)-crop-u5724936.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_2345-crop-u5724952.jpg</image:loc>
@@ -1266,12 +990,6 @@
       <image:loc>http://andresrabano.com/images/ams%20(3)190x127_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/mg_2373-crop-u5725016.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mg_2373-crop-u572501_2x6.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andresrabano.com/images/mg_2351158x236.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1284,39 +1002,273 @@
       <image:loc>http://andresrabano.com/images/mg_0277158x237_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/horta_mg_1436-crop-u5739746.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/horta_mg_1436-crop-u573974_2x6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mg_0263-crop-u5739766.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mg_0263-crop-u573976_2x6.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andresrabano.com/images/mg_0268350x234.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_0268350x234_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/brussels%20(4)-crop-u5739806.jpg</image:loc>
+      <image:loc>http://andresrabano.com/images/london%20(1)453x679.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://andresrabano.com/about.html</loc>
-    <lastmod>2024-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://andresrabano.com/images/barrita.png</image:loc>
+      <image:loc>http://andresrabano.com/images/london%20(3)454x679.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(5)454x679.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(4)696x466.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(4)696x466_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(1)462x679.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(3)450x680.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u670983.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(2)450x319.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(2)450x319_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(7)491x295.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(7)491x295_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(6)450x301.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(6)450x301_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(5)450x301.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(5)450x301_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(6)1373x918.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(1)467x700.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(3)468x700.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(5)468x700.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(4)1030x688.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(8)1030x689.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(2)1030x687.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(6)1030x688.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(7)1030x690.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(1)476x700.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(3)464x700.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(4)515x345.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(4)515x345_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u6709832.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(5)1030x687.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(7)1030x620.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(2)990x700.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(6)700x468.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(1)334x500.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(3)334x500.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(5)334x500.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(1)302x453.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(3)303x453.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(5)302x453.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(4)550x367.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(8)550x368.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(2)550x367.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(6)550x368.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(7)550x368.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(1)329x484.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(3)329x498.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(4)329x220.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(4)329x220_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(1)309x454.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(3)301x454.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u6709833.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(2)300x213.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(2)300x213_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(7)327x197.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(7)327x197_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(6)300x201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(6)300x201_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(5)300x201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(5)300x201_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(5)558x373.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(7)558x336.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(2)542x383.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(6)558x373.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(1)280x420.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(3)280x420.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/london%20(5)280x420.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(1)280x412.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(3)277x418.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(4)280x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(4)280x188_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(1)180x265.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(3)175x265.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(4)-crop-u6709834.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(2)176x125.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(2)176x125_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(7)192x116.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(7)192x116_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(6)176x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(6)176x118_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(5)176x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(5)176x118_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(5)308x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(7)308x186.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(2)304x215.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/paris%20(6)308x206.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://andresrabano.com/work.html</loc>
-    <lastmod>2024-03-21</lastmod>
+    <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1333,25 +1285,16 @@
     </image:image>
   </url>
   <url>
-    <loc>http://andresrabano.com/assets/jhonny.jpg</loc>
-    <lastmod>2016-10-24</lastmod>
+    <loc>http://andresrabano.com/about.html</loc>
+    <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/barrita.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://andresrabano.com/assets/termo.jpg</loc>
-    <lastmod>2016-10-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://andresrabano.com/assets/gazapo.jpg</loc>
-    <lastmod>2016-10-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://andresrabano.com/assets/smoke.jpg</loc>
     <lastmod>2016-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1364,6 +1307,30 @@
   </url>
   <url>
     <loc>http://andresrabano.com/assets/fire-safety.jpg</loc>
+    <lastmod>2016-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://andresrabano.com/assets/gazapo.jpg</loc>
+    <lastmod>2016-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://andresrabano.com/assets/jhonny.jpg</loc>
+    <lastmod>2016-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://andresrabano.com/assets/curtainwall.jpg</loc>
+    <lastmod>2016-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://andresrabano.com/assets/tecla.jpg</loc>
     <lastmod>2016-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1399,12 +1366,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andresrabano.com/assets/curtainwall.jpg</loc>
-    <lastmod>2016-10-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://andresrabano.com/assets/conversion-sys.jpg</loc>
     <lastmod>2016-10-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -1423,6 +1384,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://andresrabano.com/assets/smoke.jpg</loc>
+    <lastmod>2016-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://andresrabano.com/assets/home.jpg</loc>
     <lastmod>2016-12-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -1430,12 +1397,6 @@
   </url>
   <url>
     <loc>http://andresrabano.com/assets/diverxo.jpg</loc>
-    <lastmod>2016-10-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://andresrabano.com/assets/tecla.jpg</loc>
     <lastmod>2016-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

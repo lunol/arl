@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x,2x" timestamp="1711147958142">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x,2x" timestamp="1711148692677">
   <folder name="css">
     <file name="site_global.css" crc="82588861"/>
     <file name="master_maestra-black-fluida.css" crc="4076701588" ref="work"/>
     <file name="nomq_preview_master_maestra-black-fluida.css" crc="4173064421" ref="work"/>
-    <file name="master_maestra.css" crc="250547065" ref="about:photography"/>
-    <file name="nomq_preview_master_maestra.css" crc="3945299249" ref="about:photography"/>
+    <file name="master_maestra.css" crc="314170480" ref="about:photography"/>
+    <file name="nomq_preview_master_maestra.css" crc="479549310" ref="about:photography"/>
     <file name="master_maestra-black.css" crc="50000078" ref="animation"/>
     <file name="nomq_preview_master_maestra-black.css" crc="3906730459" ref="animation"/>
     <file name="master_maestra-fluida.css" crc="3975681655" ref="technique:graphics"/>
@@ -15,8 +15,8 @@
     <file name="nomq_about.css" crc="3875977735" ref="about"/>
     <file name="graphics.css" crc="297234144" ref="graphics"/>
     <file name="nomq_graphics.css" crc="3994092717" ref="graphics"/>
-    <file name="photography.css" crc="101077452" ref="photography"/>
-    <file name="nomq_photography.css" crc="3922629080" ref="photography"/>
+    <file name="photography.css" crc="527700903" ref="photography"/>
+    <file name="nomq_photography.css" crc="4072810654" ref="photography"/>
     <file name="work.css" crc="486866389" ref="work"/>
     <file name="nomq_work.css" crc="249133857" ref="work"/>
     <file name="index.css" crc="3881719379" ref="index"/>
@@ -199,7 +199,7 @@
     <file name="triang-u130673-fr.png" crc="3847399465" ref="work"/>
     <file name="rect-u130652-fr.png" crc="358841867" ref="work"/>
     <file name="circ-u130630-fr.png" crc="239662659" ref="work"/>
-    <file name="maestra-favicon.ico" crc="7221777" ref="about"/>
+    <file name="maestra-favicon.ico" crc="7221777" ref="about:photography"/>
     <file name="barrita.png" crc="3969515260" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -215,6 +215,8 @@
       <caption webpage="photography-copy" alt=""/>
       <caption webpage="photography-copy" alt=""/>
       <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="technique" alt=""/>
@@ -532,7 +534,7 @@
     <file name="mg_2359276x414_2x.jpg" crc="94810063" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="mg_2345-crop-u572495.jpg" crc="4017250063" seo="true" ref="photography">
+    <file name="mg_2345-crop-u572495.jpg" crc="107923865" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="mg_2345-crop-u572495_2x.jpg" crc="4007384227" seo="true" ref="photography">
@@ -1622,7 +1624,7 @@
   <file name="index.html" crc="3941084233" seo="true" mt="1711143817506" redirect="true"/>
   <file name="work.html" crc="279595823" seo="true" mt="1711143817507" redirect="true"/>
   <file name="about.html" crc="445701101" seo="true" mt="1711118393735" redirect="true"/>
-  <file name="photography.html" crc="401873493" seo="true" mt="1711147870125" redirect="true"/>
+  <file name="photography.html" crc="3790976571" seo="true" mt="1711148627298" redirect="true"/>
   <file name="animation.html" crc="479144731" seo="true" mt="1711059167839" redirect="true"/>
   <file name="technique.html" crc="67067993" seo="true" mt="1711143817509" redirect="true"/>
   <file name="graphics.html" crc="3798148721" seo="true" mt="1711143817509" redirect="true"/>

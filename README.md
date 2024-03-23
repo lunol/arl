@@ -1,3 +1,3 @@
 # arl
 Portfolio Website
-Developed using MUSE from Adobe
+Architecture, photography & Art

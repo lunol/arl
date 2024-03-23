@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x,2x" timestamp="1711227770398">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x,2x" timestamp="1711229486957">
   <folder name="css">
     <file name="site_global.css" crc="82588861"/>
     <file name="master_maestra-black-fluida.css" crc="3866008014" ref="work"/>
     <file name="nomq_preview_master_maestra-black-fluida.css" crc="142436236" ref="work"/>
-    <file name="master_maestra.css" crc="97229954" ref="about:photography"/>
-    <file name="nomq_preview_master_maestra.css" crc="314457896" ref="about:photography"/>
+    <file name="master_maestra.css" crc="4255967487" ref="about:photography"/>
+    <file name="nomq_preview_master_maestra.css" crc="4058522670" ref="about:photography"/>
     <file name="master_maestra-black.css" crc="326513351" ref="animation"/>
     <file name="nomq_preview_master_maestra-black.css" crc="27899746" ref="animation"/>
     <file name="master_maestra-fluida.css" crc="311196501" ref="technique:graphics"/>
@@ -15,8 +15,8 @@
     <file name="nomq_about.css" crc="3875977735" ref="about"/>
     <file name="graphics.css" crc="3939496013" ref="graphics"/>
     <file name="nomq_graphics.css" crc="4189344443" ref="graphics"/>
-    <file name="photography.css" crc="3826607406" ref="photography"/>
-    <file name="nomq_photography.css" crc="35324960" ref="photography"/>
+    <file name="photography.css" crc="4245245366" ref="photography"/>
+    <file name="nomq_photography.css" crc="11449352" ref="photography"/>
     <file name="work.css" crc="4228707198" ref="work"/>
     <file name="nomq_work.css" crc="249133857" ref="work"/>
     <file name="index.css" crc="3881719379" ref="index"/>
@@ -199,7 +199,7 @@
     <file name="triang-u130673-fr.png" crc="3847399465" ref="work"/>
     <file name="rect-u130652-fr.png" crc="358841867" ref="work"/>
     <file name="circ-u130630-fr.png" crc="239662659" ref="work"/>
-    <file name="maestra-favicon.ico" crc="7221777" ref="about"/>
+    <file name="maestra-favicon.ico" crc="7221777" ref="about:photography"/>
     <file name="barrita.png" crc="3969515260" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -211,12 +211,14 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="photography-copy" alt=""/>
-      <caption webpage="photography-copy" alt=""/>
-      <caption webpage="photography-copy" alt=""/>
-      <caption webpage="photography-copy" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
+      <caption webpage="photography-copy" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
@@ -1456,12 +1458,6 @@
     <file name="mg_1436_vertedit_2x.jpg" crc="3857684767" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_mg_0262_edits.jpg" crc="4042032287" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0262_edits_2x.jpg" crc="4159937420" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
     <file name="brussels (4)450x667.jpg" crc="3917947133" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
@@ -1482,32 +1478,12 @@
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_mg_0262_edits-crop-u687168.jpg" crc="3960593054" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0262_edits-crop-u687168_2x.jpg" crc="4276236794" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0266_crop497x295.jpg" crc="394339565" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0266_crop497x295_2x.jpg" crc="430811513" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
     <file name="mg_0268450x300.jpg" crc="221023733" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
     <file name="mg_0268450x300_2x.jpg" crc="4132616363" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0266_crop.jpg" crc="3902638777" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0266_crop_2x.jpg" crc="525393384" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="mg_3114_edit464x696.jpg" crc="4138194345" seo="true" ref="photography">
@@ -1597,28 +1573,10 @@
     <file name="mg_0277467x700_2x.jpg" crc="182724189" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_mg_0262_edits495x700.jpg" crc="505141149" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0262_edits495x700_2x.jpg" crc="3809344938" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0262_edits-crop-u6871682.jpg" crc="3960593054" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0262_edits-crop-u687168_2x2.jpg" crc="4276236794" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
     <file name="mg_02681030x687.jpg" crc="3870230701" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="mg_02681030x687_2x.jpg" crc="16908939" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0266_crop1024x608.jpg" crc="235322549" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0266_crop1024x608_2x.jpg" crc="3829041674" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="london (3)334x501.jpg" crc="223067567" seo="true" ref="photography">
@@ -1750,12 +1708,6 @@
     <file name="mg_0277334x500_2x.jpg" crc="4150243436" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_mg_0262_edits329x466.jpg" crc="405798767" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0262_edits329x466_2x.jpg" crc="495035835" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
     <file name="brussels (4)299x444.jpg" crc="4047463787" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
@@ -1765,22 +1717,10 @@
     <file name="mg_1436_vertedit299x627_2x.jpg" crc="4024380042" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="mg_0277-crop-u686492.jpg" crc="3898603615" seo="true" ref="photography">
+    <file name="mg_0277-crop-u686492.jpg" crc="163208115" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="mg_0277-crop-u686492_2x.jpg" crc="425132058" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0262_edits-crop-u6871683.jpg" crc="3878864148" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0262_edits-crop-u687168_2x3.jpg" crc="183720996" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0266_crop333x198.jpg" crc="41212242" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0266_crop333x198_2x.jpg" crc="435515197" seo="true" ref="photography">
+    <file name="mg_0277-crop-u686492_2x.jpg" crc="39365478" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="mg_0268301x201.jpg" crc="4283774220" seo="true" ref="photography">
@@ -1793,12 +1733,6 @@
       <caption webpage="photography" alt=""/>
     </file>
     <file name="mg_0268550x367_2x.jpg" crc="366199247" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0266_crop558x332.jpg" crc="279457222" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0266_crop558x332_2x.jpg" crc="4152044635" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="mg_3114_edit277x416.jpg" crc="3902165214" seo="true" ref="photography">
@@ -1927,12 +1861,6 @@
     <file name="mg_0277280x420_2x.jpg" crc="3879057162" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_mg_0262_edits280x397.jpg" crc="4238301617" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0262_edits280x397_2x.jpg" crc="421109831" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
     <file name="brussels (4)175x260.jpg" crc="94551310" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
@@ -1948,18 +1876,6 @@
     <file name="mg_0277-crop-u686492_2x2.jpg" crc="38335762" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_mg_0262_edits-crop-u6871684.jpg" crc="301903613" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0262_edits-crop-u687168_2x4.jpg" crc="230538658" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0266_crop194x115.jpg" crc="4101037586" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="_mg_0266_crop194x115_2x.jpg" crc="516883980" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
     <file name="mg_0268176x117.jpg" crc="3998302437" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
@@ -1972,17 +1888,103 @@
     <file name="mg_0268308x206_2x.jpg" crc="4014102462" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_mg_0266_crop308x183.jpg" crc="3933645351" seo="true" ref="photography">
+    <file name="mg_0262_edits.jpg" crc="4042032287" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="_mg_0266_crop308x183_2x.jpg" crc="313494702" seo="true" ref="photography">
+    <file name="mg_0262_edits_2x.jpg" crc="4159937420" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits-crop-u687168.jpg" crc="534049538" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits-crop-u687168_2x.jpg" crc="162558542" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop497x295.jpg" crc="394339565" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop497x295_2x.jpg" crc="430811513" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop.jpg" crc="3902638777" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop_2x.jpg" crc="525393384" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits495x700.jpg" crc="505141149" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits495x700_2x.jpg" crc="3809344938" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits-crop-u6871682.jpg" crc="534049538" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits-crop-u687168_2x2.jpg" crc="162558542" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop1024x608.jpg" crc="235322549" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop1024x608_2x.jpg" crc="3829041674" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits329x466.jpg" crc="405798767" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits329x466_2x.jpg" crc="495035835" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits-crop-u6871683.jpg" crc="89896073" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits-crop-u687168_2x3.jpg" crc="484609465" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop333x198.jpg" crc="41212242" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop333x198_2x.jpg" crc="435515197" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop558x332.jpg" crc="279457222" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop558x332_2x.jpg" crc="4152044635" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits280x397.jpg" crc="4238301617" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits280x397_2x.jpg" crc="421109831" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits-crop-u6871684.jpg" crc="4163521408" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0262_edits-crop-u687168_2x4.jpg" crc="69181363" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop194x115.jpg" crc="4101037586" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop194x115_2x.jpg" crc="516883980" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop308x183.jpg" crc="3933645351" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_0266_crop308x183_2x.jpg" crc="313494702" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="3941084233" seo="true" mt="1711143817506" redirect="true"/>
   <file name="work.html" crc="4243305780" seo="true" mt="1711207306970" redirect="true"/>
   <file name="about.html" crc="153128211" seo="true" mt="1711207306976" redirect="true"/>
-  <file name="photography.html" crc="3940515601" seo="true" mt="1711227634248" redirect="true"/>
+  <file name="photography.html" crc="518269801" seo="true" mt="1711229416935" redirect="true"/>
   <file name="animation.html" crc="29304924" seo="true" mt="1711207306978" redirect="true"/>
   <file name="technique.html" crc="3954269467" seo="true" mt="1711207306978" redirect="true"/>
   <file name="graphics.html" crc="4118909081" seo="true" mt="1711207306979" redirect="true"/>

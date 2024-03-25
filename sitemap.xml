@@ -41,7 +41,7 @@
   </url>
   <url>
     <loc>http://andresrabano.com/technique.html</loc>
-    <lastmod>2024-03-23</lastmod>
+    <lastmod>2024-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -143,7 +143,7 @@
   </url>
   <url>
     <loc>http://andresrabano.com/graphics.html</loc>
-    <lastmod>2024-03-23</lastmod>
+    <lastmod>2024-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -263,7 +263,7 @@
   </url>
   <url>
     <loc>http://andresrabano.com/animation.html</loc>
-    <lastmod>2024-03-23</lastmod>
+    <lastmod>2024-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -760,12 +760,6 @@
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_2373_crop_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mg_2359667x1000.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mg_2359667x1000_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_2351453x679.jpg</image:loc>
@@ -1604,10 +1598,16 @@
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_0276edit308x173_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/mg_2359.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/mg_2359_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://andresrabano.com/work.html</loc>
-    <lastmod>2024-03-23</lastmod>
+    <lastmod>2024-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

@@ -1,28 +1,28 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x,2x" timestamp="1711394924282">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andresrabano.com" resolutions="1x,2x" timestamp="1711397885476">
   <folder name="css">
     <file name="site_global.css" crc="82588861"/>
-    <file name="master_maestra-fluida.css" crc="311196501" ref="technique:graphics"/>
+    <file name="master_maestra-fluida.css" crc="523097353" ref="technique:graphics"/>
     <file name="nomq_preview_master_maestra-fluida.css" crc="131755191" ref="technique:graphics"/>
     <file name="master_maestra-black-fluida.css" crc="3866008014" ref="work"/>
     <file name="nomq_preview_master_maestra-black-fluida.css" crc="142436236" ref="work"/>
-    <file name="master_maestra.css" crc="4255967487" ref="about:photography"/>
-    <file name="nomq_preview_master_maestra.css" crc="4058522670" ref="about:photography"/>
+    <file name="master_maestra.css" crc="4109847110" ref="about:photography"/>
+    <file name="nomq_preview_master_maestra.css" crc="4116399078" ref="about:photography"/>
     <file name="master_maestra-black.css" crc="326513351" ref="animation"/>
     <file name="nomq_preview_master_maestra-black.css" crc="27899746" ref="animation"/>
-    <file name="animation.css" crc="3988815198" ref="animation"/>
-    <file name="nomq_animation.css" crc="486500660" ref="animation"/>
-    <file name="technique.css" crc="226773791" ref="technique"/>
-    <file name="nomq_technique.css" crc="3833839381" ref="technique"/>
+    <file name="animation.css" crc="3825961221" ref="animation"/>
+    <file name="nomq_animation.css" crc="4084097631" ref="animation"/>
+    <file name="technique.css" crc="3972571881" ref="technique"/>
+    <file name="nomq_technique.css" crc="4064438844" ref="technique"/>
     <file name="about.css" crc="3875496783" ref="about"/>
     <file name="nomq_about.css" crc="3875977735" ref="about"/>
     <file name="index.css" crc="4053908347" ref="index"/>
     <file name="nomq_index.css" crc="300236407" ref="index"/>
-    <file name="work.css" crc="4228707198" ref="work"/>
-    <file name="nomq_work.css" crc="249133857" ref="work"/>
-    <file name="graphics.css" crc="3939496013" ref="graphics"/>
-    <file name="nomq_graphics.css" crc="4189344443" ref="graphics"/>
-    <file name="photography.css" crc="483303368" ref="photography"/>
-    <file name="nomq_photography.css" crc="3743228" ref="photography"/>
+    <file name="work.css" crc="183013058" ref="work"/>
+    <file name="nomq_work.css" crc="431813361" ref="work"/>
+    <file name="graphics.css" crc="4018459060" ref="graphics"/>
+    <file name="nomq_graphics.css" crc="3952787094" ref="graphics"/>
+    <file name="photography.css" crc="227412748" ref="photography"/>
+    <file name="nomq_photography.css" crc="4166033987" ref="photography"/>
   </folder>
   <folder name="fonts">
     <file name="arial-webfont.woff" crc="3927020290"/>
@@ -77,7 +77,7 @@
     <file name="jquery.scrolleffects.js" crc="312044820" ref="photography:animation"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3763734442" ref="index"/>
+    <file name="favicon.ico" crc="3763734442" ref="index:work"/>
     <file name="h01.jpg" crc="3913068728" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -183,12 +183,12 @@
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="animation" alt=""/>
       <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
-      <caption webpage="animation" alt=""/>
-      <caption webpage="animation" alt=""/>
-      <caption webpage="animation" alt=""/>
-      <caption webpage="animation" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
     </file>
@@ -202,16 +202,16 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="lines copia.png" crc="3822225821" ref="about:photography:technique">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
       <caption webpage="technique" alt=""/>
@@ -371,12 +371,6 @@
       <caption webpage="photography" alt=""/>
     </file>
     <file name="mg_2373_crop_2x.jpg" crc="523771580" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="mg_2359667x1000.jpg" crc="398667386" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="mg_2359667x1000_2x.jpg" crc="3819446876" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="mg_2351453x679.jpg" crc="370511265" seo="true" ref="photography">
@@ -1232,10 +1226,10 @@
     <file name="1-crop-u443667_2x.png" crc="490860604" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="2-crop-u444025.png" crc="248562343" seo="true" ref="animation">
+    <file name="2-crop-u444025.png" crc="354424563" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="2-crop-u444025_2x.png" crc="4236748345" seo="true" ref="animation">
+    <file name="2-crop-u444025_2x.png" crc="283501603" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
     <file name="3-crop-u444067.png" crc="4019413840" seo="true" ref="animation">
@@ -1250,10 +1244,10 @@
     <file name="4-crop-u444109_2x.png" crc="200592939" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="5-crop-u444151.png" crc="168189277" seo="true" ref="animation">
+    <file name="5-crop-u444151.png" crc="308297410" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="5-crop-u444151_2x.png" crc="63746429" seo="true" ref="animation">
+    <file name="5-crop-u444151_2x.png" crc="3853392490" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
     <file name="capa 3384x266.png" crc="310495240" seo="true" ref="animation">
@@ -1346,10 +1340,10 @@
     <file name="1-crop-u443667_2x2.png" crc="4257726158" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="2-crop-u4440252.png" crc="4147592117" seo="true" ref="animation">
+    <file name="2-crop-u4440252.png" crc="536600839" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="2-crop-u444025_2x2.png" crc="28185129" seo="true" ref="animation">
+    <file name="2-crop-u444025_2x2.png" crc="3880108502" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
     <file name="3-crop-u4440672.png" crc="424173537" seo="true" ref="animation">
@@ -1364,10 +1358,10 @@
     <file name="4-crop-u444109_2x2.png" crc="476025657" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="5-crop-u4441512.png" crc="307022365" seo="true" ref="animation">
+    <file name="5-crop-u4441512.png" crc="4287371913" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="5-crop-u444151_2x2.png" crc="172085235" seo="true" ref="animation">
+    <file name="5-crop-u444151_2x2.png" crc="300962906" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
     <file name="capa 3272x188.png" crc="4257654371" seo="true" ref="animation">
@@ -1440,10 +1434,10 @@
     <file name="1-crop-u443667_2x3.png" crc="490860604" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="2-crop-u4440253.png" crc="442661344" seo="true" ref="animation">
+    <file name="2-crop-u4440253.png" crc="3813747484" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="2-crop-u444025_2x3.png" crc="3794131417" seo="true" ref="animation">
+    <file name="2-crop-u444025_2x3.png" crc="51703381" seo="true" ref="animation">
       <caption webpage="animation" alt=""/>
     </file>
     <file name="3-crop-u4440673.png" crc="4019413840" seo="true" ref="animation">
@@ -1845,7 +1839,7 @@
     <file name="mg_0277edit334x500_2x.jpg" crc="4022369271" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="mg_0296_edit2-crop-u686488.jpg" crc="3787577117" seo="true" ref="photography">
+    <file name="mg_0296_edit2-crop-u686488.jpg" crc="3778716631" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="mg_0296_edit2-crop-u686488_2x.jpg" crc="472595221" seo="true" ref="photography">
@@ -1902,7 +1896,7 @@
     <file name="mg_0277edit-crop-u686492.jpg" crc="301685802" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="mg_0277edit-crop-u686492_2x.jpg" crc="4226588902" seo="true" ref="photography">
+    <file name="mg_0277edit-crop-u686492_2x.jpg" crc="4182011143" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
     <file name="mg_0266_crop183x109.jpg" crc="246049303" seo="true" ref="photography">
@@ -1923,12 +1917,18 @@
     <file name="mg_0276edit308x173_2x.jpg" crc="3995875789" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
+    <file name="mg_2359.jpg" crc="398667386" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="mg_2359_2x.jpg" crc="3819446876" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="3826386131" seo="true" mt="1711143817506" redirect="true"/>
-  <file name="work.html" crc="3793712540" seo="true" mt="1711207306970" redirect="true"/>
+  <file name="work.html" crc="4062127750" seo="true" mt="1711397071249" redirect="true"/>
   <file name="about.html" crc="3986723744" seo="true" mt="1711207306976" redirect="true"/>
-  <file name="photography.html" crc="4226692732" seo="true" mt="1711394881794" redirect="true"/>
-  <file name="animation.html" crc="434276138" seo="true" mt="1711207306978" redirect="true"/>
-  <file name="technique.html" crc="4125462677" seo="true" mt="1711207306978" redirect="true"/>
-  <file name="graphics.html" crc="3861734462" seo="true" mt="1711207306979" redirect="true"/>
+  <file name="photography.html" crc="169676908" seo="true" mt="1711395912710" redirect="true"/>
+  <file name="animation.html" crc="204935979" seo="true" mt="1711396992759" redirect="true"/>
+  <file name="technique.html" crc="3834997430" seo="true" mt="1711397326955" redirect="true"/>
+  <file name="graphics.html" crc="3910101582" seo="true" mt="1711397248648" redirect="true"/>
 </manifest>

@@ -629,7 +629,7 @@
   </url>
   <url>
     <loc>http://andresrabano.com/photography.html</loc>
-    <lastmod>2024-03-25</lastmod>
+    <lastmod>2024-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1407,12 +1407,6 @@
       <image:loc>http://andresrabano.com/images/mg_0262_edits-crop-u687168_2x4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/mg_0268176x117.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mg_0268176x117_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andresrabano.com/images/mg_0268308x206.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1545,12 +1539,6 @@
       <image:loc>http://andresrabano.com/images/mg_0276edit558x314_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andresrabano.com/images/mg_3537254x381.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mg_3537254x381_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andresrabano.com/images/mg_3537176x265.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1567,12 +1555,6 @@
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_0277edit280x420_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mg_0296_edit2173x260.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andresrabano.com/images/mg_0296_edit2173x260_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_0277edit-crop-u686492.jpg</image:loc>
@@ -1603,6 +1585,24 @@
     </image:image>
     <image:image>
       <image:loc>http://andresrabano.com/images/mg_2359_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/mg_3537280x421.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/mg_3537280x421_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/mg_0296_edit2-crop-u6864882.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/mg_0296_edit2-crop-u686488_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/mg_0268175x117.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andresrabano.com/images/mg_0268175x117_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
